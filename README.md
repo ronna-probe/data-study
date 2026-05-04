@@ -9,7 +9,7 @@ Python, SQL 공부하면서 배운 내용을 정리해보자.
 
 ## 준비하고 있는 것
 - ADsP
-- cos pro 2급 (Python) : 프로그래머스 Lv0 ~ Lv1
+- cos pro 2급 (Python)
 - SQLD
 - 정보처리기사
 
