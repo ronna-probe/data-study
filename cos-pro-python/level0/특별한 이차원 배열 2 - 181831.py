@@ -19,7 +19,7 @@ def is_symmetric_matrix(arr):
     n = len(arr)
     
     for i in range(n):
-        # 상삼각 영역만 탐색 (대칭 비교 중복 제거)
+        # j를 i+1부터 시작하여 상삼각 영역만 탐색 (중복 비교 제거)
         for j in range(i + 1, n):
             if arr[i][j] != arr[j][i]:
                 return 0
@@ -29,7 +29,7 @@ def is_symmetric_matrix(arr):
 
 ## 정리
 - 시간복잡도는 여전히 O(n²)이지만, 실제 연산량은 n(n−1)/2로 최적화된다.
-- early return을 통해 불일치 발견 즉시 종료되어 불필요한 비교를 줄인다.
+- early return을 통해 불일치 발견 즉시 종료되어 불필요한 비교 연산을 줄인다.
 
 ## 참고
 
@@ -39,10 +39,10 @@ def is_symmetric_matrix(arr):
     n = len(arr)
 
     # 모든 대칭 조건을 한 번에 검사
-    # j를 i+1부터 시작하여 상삼각 영역만 탐색 (중복 비교 제거)
     return int(all(
         arr[i][j] == arr[j][i]
         for i in range(n)
+        # j를 i+1부터 시작하여 상삼각 영역만 탐색 (중복 비교 제거)
         for j in range(i + 1, n)
     ))
 ```
@@ -50,7 +50,7 @@ def is_symmetric_matrix(arr):
 ### 2. 전치 행렬 생성
 ```python
 def is_symmetric_matrix(arr):
-    # 정사각행렬이 전치 행렬과 동일하면 대칭 행렬이다.
+    # 정사각 행렬이 전치 행렬과 동일하면 대칭 행렬이다.
     transposed = [
         list(row)
         for row in zip(*arr)
@@ -60,6 +60,6 @@ def is_symmetric_matrix(arr):
 ```
 
 ### 3. 상삼각 영역
-- 정사각행렬의 대각선을 기준으로 위쪽에 위치한 영역을 상삼각 영역이라고 한다.
+- 정사각 행렬의 대각선을 기준으로 위쪽에 위치한 영역을 상삼각 영역이라고 한다.
 - 아래쪽 영역은 하삼각 영역이라고 한다.
 - 이중 for문은 일반적으로 행을 기준으로 순회하기 때문에, 구현에서는 상삼각 영역만 순회하도록 구성하는 방식이 자연스럽다.
