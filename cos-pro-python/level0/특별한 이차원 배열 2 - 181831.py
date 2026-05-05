@@ -33,7 +33,7 @@ def is_symmetric_matrix(arr):
 
 ## 참고
 
-### 1. all() 함수 활용
+### 1. all() 함수 + 제너레이터 활용
 ```python
 def is_symmetric_matrix(arr):
     n = len(arr)
