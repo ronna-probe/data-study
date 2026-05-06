@@ -28,7 +28,7 @@ def is_symmetric_matrix(arr):
 ```
 
 ## 정리
-- 시간복잡도는 여전히 O(n²)이지만, 실제 연산량은 n(n−1)/2로 최적화된다.
+- 시간복잡도는 여전히 O(n²)이지만, 실제 연산량은 n^2에서 n(n−1)/2로 최적화된다.
 - early return을 통해 불일치 발견 즉시 종료되어 불필요한 비교 연산을 줄인다.
 
 ## 참고
@@ -38,11 +38,10 @@ def is_symmetric_matrix(arr):
 def is_symmetric_matrix(arr):
     n = len(arr)
 
-    # 모든 대칭 조건을 한 번에 검사
+    # AND 게이트
     return int(all(
         arr[i][j] == arr[j][i]
         for i in range(n)
-        # j를 i+1부터 시작하여 상삼각 영역만 탐색 (중복 비교 제거)
         for j in range(i + 1, n)
     ))
 ```
