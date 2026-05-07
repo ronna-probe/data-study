@@ -1,0 +1,40 @@
+# 수 조작하기 2
+
+## 출처
+https://school.programmers.co.kr/learn/courses/30/lessons/181925
+
+## 문제
+정수 배열 num_log가 주어진다.
+num_log[0]에서 시작하여 다음 조작을 순서대로 수행한 결과가 num_log에 저장되어 있다.
+
+"w" : +1
+"s" : -1
+"d" : +10
+"a" : -10
+
+즉, num_log[i]는 num_log[i-1]에 한 번의 조작을 적용한 결과이다.
+이때, 각 단계에서 어떤 조작이 수행되었는지를 문자열로 반환하는 함수를 작성한다.
+
+## 접근
+- 인접한 값의 차이를 보면 어떤 연산이 수행됐는지 바로 알 수 있다.
+- num_log[i] - num_log[i-1] 값은 항상 {1, -1, 10, -10} 중 하나이다.
+- 이를 문자로 매핑하면 전체 문자열을 복원할 수 있다.
+
+## 코드
+```python
+def decode_moves(num_log):
+    move_map = {
+        1: "w",
+        -1: "s",
+        10: "d",
+        -10: "a"
+    }
+
+    commands = ''.join(move_map[b - a] for a, b in zip(num_log, num_log[1:]))
+    return commands
+```
+
+## 정리
+- 핵심은 '값 자체가 아니라 변화량'을 추적하는 것이다.
+- 인접 차이를 이용하면 역으로 연산 기록을 복원할 수 있다.
+- num_log[1:], zip을 활용하면 깔끔하게 O(n)으로 해결 가능하다.
