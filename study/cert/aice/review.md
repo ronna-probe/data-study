@@ -1,4 +1,4 @@
-# AICE Basic 자격증 취득
+# AICE Basic 자격증 취득 후기
 
 ## 계기
 
