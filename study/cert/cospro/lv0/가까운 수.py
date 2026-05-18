@@ -1,0 +1,65 @@
+# 가까운 수
+
+## 출처
+https://school.programmers.co.kr/learn/courses/30/lessons/120890
+
+## 문제
+정수 배열 `array`와 정수 `n`이 주어진다.
+
+배열 원소 중 `n`과 가장 가까운 수를 반환한다.  
+가장 가까운 수가 여러 개라면 더 작은 수를 반환한다.
+
+예:
+```python
+array = [3, 10, 28]
+n = 20
+
+>> 28
+```
+
+---
+
+## 접근
+
+조건은 두 가지다.
+1. n과의 거리가 가장 작은 값을 찾는다.
+2. 거리가 같다면 더 작은 값을 선택한다.
+
+최소 시간복잡도는 O(n)이다.
+
+---
+
+## 코드
+
+### 1. 기준 좌표 기반 탐색
+```python
+def find_closest_number(array, n):
+    dist = min(abs(x-n) for x in array)
+    
+    return n-dist if n-dist in array else n+dist
+```
+
+### 2-1. 튜플 비교
+```python
+def find_closest_number(array, n):
+    closest = array[0]
+
+    for x in array:
+        if (abs(x-n), x) < (abs(closest-n), closest):
+            closest = x
+
+    return closest
+```
+
+### 2-2. min + key 활용
+```python
+def find_closest_number(array, n):
+    return min(array, key=lambda x: (abs(x-n), x))
+```
+
+---
+
+## 정리
+- 튜플 비교를 사용하면 (1순위, 2순위, ..., N순위) 형태의 우선순위 비교를 동시에 처리할 수 있다.
+- min(iterable, key=함수)는 iterable의 각 원소에 대해 key 함수의 반환값을 기준으로 최솟값을 찾는다.
+- 예를 들어 min(arr, key=abs)는 arr의 각 원소를 절댓값 기준으로 비교하여, 절댓값이 가장 작은 값을 반환한다.
