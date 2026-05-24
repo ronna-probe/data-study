@@ -1,0 +1,73 @@
+# 컨트롤 제트
+
+## 출처
+https://school.programmers.co.kr/learn/courses/30/lessons/120853
+
+---
+
+## 문제
+숫자와 "Z"가 공백으로 구분된 문자열 s가 주어진다.
+
+문자열을 앞에서부터 순서대로 더할 때:
+
+- 숫자는 그대로 더한다.
+- "Z"가 나오면 바로 직전에 더했던 숫자를 취소한다.
+
+최종 계산 결과를 반환하는 함수를 작성한다.
+
+---
+
+## 접근
+
+- 문자열을 공백 기준으로 나누어 순회한다.
+
+```python
+lst = s.split()
+```
+
+---
+
+## 코드
+
+### 이전 값 상쇄
+
+- 문제 조건상 "Z"가 연속해서 나오는 경우는 없다.
+
+```python
+def calculate_with_undo(s):
+
+    # := walrus 연산자
+    for i, token in enumerate(tokens := s.split()):
+        if token == "Z":
+            tokens[i] = -int(tokens[i - 1])
+        else:
+            tokens[i] = int(token)
+        
+    return sum(tokens)    
+```
+
+### 스택
+
+- "Z"가 연속해서 등장하는 경우에도 대응 가능하다.
+
+```python
+def calculate_with_undo(s):
+    numbers = []
+    
+    for token in s.split():
+        if token == "Z":
+            # s는 "Z"로 시작하지 않는다.
+            numbers.pop()
+        else:
+            numbers.append(int(token))
+    
+    return sum(numbers)
+```
+
+---
+
+## 정리
+
+- "Z"를 이전 값의 음수로 치환하면 sum() 1회 연산으로 처리할 수 있다.
+- 문자열에 직접 "-"를 붙이면 음수일 때 "--3" 같은 형태가 될 수 있으므로, int() 변환 후 음수 처리하는 것이 안전하다.
+- 확장성과 가독성을 고려하면 스택 풀이가 더 일반적인 방법에 가깝다.
