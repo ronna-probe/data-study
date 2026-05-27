@@ -3,10 +3,10 @@
 데이터 분석가로서 필요한 핵심 역량을 정리하고 학습하는 공간이다.  
 
 ## 구성
-- Analytics Thinking: 데이터 기반 문제 해결 및 분석적 사고 역량
-- Domain & Business: 서비스·비즈니스 구조와 산업별 데이터 활용 방식에 대한 이해
-- Hard Skills: 데이터 분석에 필요한 기술적 역량
-- Soft Skills: 유연한 사고 전개 및 커뮤니케이션 등 비기술적 역량
+- Analytics Thinking: 어떻게 사고하는가
+- Domain & Business: 어떤 서비스를 이해하는가
+- Hard Skills: 어떻게 구현하는가
+- Soft Skills: 어떻게 전달하는가
 
 ## 목적
 데이터를 단순히 처리하는 수준을 넘어 문제를 구조적으로 분석하고
