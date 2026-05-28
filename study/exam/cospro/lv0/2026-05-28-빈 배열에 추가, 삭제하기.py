@@ -1,0 +1,66 @@
+# 빈 배열에 추가, 삭제하기
+
+## 출처
+https://school.programmers.co.kr/learn/courses/30/lessons/181860
+
+---
+
+## 문제
+빈 배열 X가 주어지고, 정수 배열 arr과 boolean 배열 flag가 같은 길이로 주어진다.
+
+각 인덱스 i에 대해 다음을 순서대로 수행한다.
+
+- flag[i] == true
+  - X의 뒤에 arr[i]를 arr[i] × 2 번 추가한다.
+- flag[i] == false
+  - X의 마지막 arr[i] 개의 원소를 제거한다.
+
+최종적으로 완성된 배열 X를 반환하는 함수를 작성한다.
+
+---
+
+## 접근
+
+- 핵심은 두 가지 연산이다:
+  - 리스트 요소 추가
+  - 리스트 요소 삭제
+
+---
+
+## 구현
+
+### 기본 풀이 (직관적)
+
+```python
+def build_array(arr, flag):
+    stack = []
+    
+    for num, is_add in zip(arr, flag):
+        if is_add:
+            stack.extend([num] * (num * 2))
+        else:
+            # stack = stack[:-num] → 새로운 리스트 생성 (비용 발생)
+            # del stack[-num:] → 기존 리스트 직접 수정 (효율적)
+            del stack[-num:]
+            
+    return stack
+    
+```
+
+### 다른 접근 (트릭 풀이)
+
+```python
+def build_array(arr, flag):
+    stack = []
+    
+    for num, is_add in zip(arr, flag):
+        # (A, B)[bool] -> bool을 index로 쓰는 테크닉
+        stack = (stack[:-num], stack + [num] * (num * 2))[is_add]
+        
+    return stack
+```
+
+## 정리
+- 리스트를 상태로 관리하는 시뮬레이션 문제다.
+- 상태는 현재까지의 결과를 누적해 들고 있는 중간 값이다.
+- 관련 문제: [가까운 수 풀이](https://github.com/ronna-probe/data-study/blob/main/study/exam/cospro/lv0/2026-05-18-%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EC%88%98.py)
