@@ -5,14 +5,16 @@
 
 ## 1. 문제 정의
 
-'데이터 분석 포트폴리오'가 무엇인지 명확히 이해하지 못한 상태에서 시작했다.
-포트폴리오를 직접 만들어가는 과정 자체를 데이터로 기록하고 분석해보기로 했다.
+'데이터 분석 포트폴리오'가 무엇인지 명확히 이해하지 못한 상태에서 시작하게 되었다.
 
-일반적인 데이터 분석 포트폴리오가 문제 해결 결과를 보여준다면,
-본 프로젝트는 포트폴리오가 형성되는 과정 자체를 분석 대상으로 삼는다.
+좋은 포트폴리오의 기준은 무엇인지 등을 알아보고자 했지만, 대부분의 정보는 결과물 중심으로 설명되어 있었다.
+
+이에 결과물이 아닌 형성 과정에 주목하였다.
+일반적인 데이터 분석 포트폴리오가 문제 해결 결과를 제시한다면,
+본 프로젝트는 포트폴리오를 만들어가는 과정을 '분석 대상'으로 삼는다.
 
 질문, 의사결정, 상태 변화와 같은 과정을 기록하고 구조화함으로써,
-개념이 형성되는 과정을 데이터로 관측하고자 한다.
+개념이 형성되는 과정을 데이터로 파악하고자 한다.
 
 이러한 의미에서 본 프로젝트는 '포트폴리오에 대한 포트폴리오',
 즉 하나의 메타 포트폴리오(meta-portfolio)이다.
@@ -43,16 +45,28 @@
 
 각 로그는 하나의 의사결정과 상태 변화가 결합된 단일 이벤트로 정의된다.
 
-- `timestamp`
-- `question`
-- `gpt_response_summary`
-- `decision` (move on / hold / apply)
-- `concept_state_before`
-- `concept_state_after`
+- Input: 질문 정보
+  - `timestamp`
+  - `question_type`
+    - definition / comparison / design / critique
+  - `question`
+- Response: 응답 정보
+  - `gpt_response_summary`
+- Behavior: 행동 신호
+  - `engagement_level`
+    - copy / select / reframe / independent
+- State Change: 상태 변화
+  - `concept_state_before`
+  - `concept_state_after`
+- Decision: 의사결정
+  - `decision`
+    - move on / hold / apply
+- Reasoning: 판단 근거
+  - reasoning
 
 ### 2.3 핵심 지표 정의
 
-📌 Portfolio Understanding Level (PUL)
+PUL: Portfolio Understanding Level
 
 PUL은 직접 측정되는 값이 아니라,  
 행동 로그에서 관측되는 여러 신호를 기반으로 추정되는 latent indicator이다.
