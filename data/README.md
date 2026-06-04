@@ -7,9 +7,9 @@
 
 ## 구성
 
-- 01_Thinking: 문제 정의 및 분석 방향 설계
-- 02_Analysis: 데이터 기반 탐색 및 분석 수행
-- 99_Project: Thinking + Analysis를 통합한 최종 분석 결과
+- 01_thinking: 문제 정의 및 분석 방향 설계
+- 02_analysis: 데이터 기반 탐색 및 분석 수행
+- 99_project: Thinking + Analysis를 통합한 최종 분석 결과
 
 ---
 
