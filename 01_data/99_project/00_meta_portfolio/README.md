@@ -63,6 +63,10 @@
 - Behavior: 행동 신호
   - `engagement_level`
     - copy / select / reframe / independent
+  - `clarification_depth`
+    - 이해 과정에서 발생한 추가 질문 및 사고 반복의 깊이
+  - `thinking_mode`
+    - linear / iterative / recursive / fragmented
 - State Change: 상태 변화
   - `concept_state_before`
   - `concept_state_after`
@@ -71,6 +75,12 @@
     - move on / hold / apply
 - Reasoning: 판단 근거
   - reasoning
+
+본 프로젝트의 데이터 구조는 고정된 설계가 아니라
+실험 과정에서 지속적으로 수정 및 확장될 수 있다.
+
+새로운 행동 패턴이 발견되거나 기존 구조의 한계가 확인될 경우,
+스키마 또한 분석 대상의 일부로 간주하고 개선한다.
 
 ### 2.4 핵심 지표 정의
 
@@ -83,6 +93,8 @@ PUL은 다음 요소들의 결합으로 해석된다:
 
 - 질문 구조 변화 (definition → critique)
 - GPT 의존도 변화 (copy → independent)
+- 사고 반복 정도 (clarification_depth)
+- 사고 구조 변화 (thinking_mode)
 
 ---
 
@@ -94,11 +106,12 @@ PUL은 다음 요소들의 결합으로 해석된다:
 Engagement Level이 높을수록 상태 전이가 발생할 가능성이 높다.
 
 ### H2
-Apply 결정은 다른 의사결정보다 상태 변화를 더 자주 유도한다.
+Apply 결정은 Move On보다 높은 clarification_depth 이후에 발생할 가능성이 높다.
 
 ### H3
 포트폴리오 이해 과정은 선형적으로 진행되지 않으며,
-특정 상태에서 반복적인 정체 구간(Hold Loop)이 발생한다.
+높은 clarification_depth를 갖는 반복 구간이 발생한다.
 
 ### H4
-Move On 또는 Apply는 개념 이해의 완료를 의미하지 않는다.
+개념 이해는 누적적으로 증가하기보다,
+반복적인 재해석과 재구성을 통해 변화한다.
