@@ -124,7 +124,7 @@ hold는 데이터 내에서 거의 사용되지 않는 패턴으로 확인되었
 
 - clarification_depth: 이해 과정의 반복 질문 및 사고 깊이 기록
 - thinking_mode: 질문 생성 시 사고 구조 구분
-- 
+  
 #### Deferred
 
 - decision.hold: move on / hold / apply 중 hold는 데이터에서 거의 관측되지 않음  
