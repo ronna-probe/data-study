@@ -6,16 +6,6 @@
 
 <img width="942" height="543" alt="question_log_sample" src="https://github.com/user-attachments/assets/b88b6f10-7344-4791-a301-e8d931d4ed9c" />
 
-## Data Source
-
-본 프로젝트의 원천 데이터는 Airtable에서 관리한다.
-
-질문 로그는 프로젝트 진행 과정에서 지속적으로 추가될 수 있으며,
-데이터 구조 또한 필요에 따라 수정될 수 있다.
-
-따라서 현재 저장소에는 데이터셋 csv 원본을 포함하지 않으며,
-본 문서는 현재 사용 중인 데이터 구조를 설명한다.
-
 ---
 
 ## Input
