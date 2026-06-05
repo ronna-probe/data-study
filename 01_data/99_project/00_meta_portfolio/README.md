@@ -27,16 +27,12 @@
 
 ### 2.1 데이터 수집 (Airtable Logging)
 
-본 프로젝트의 데이터는 GPT와의 상호작용 과정에서 생성된다.
+본 프로젝트의 데이터는 GPT와의 상호작용 과정에서 생성되며,
+각 상호작용은 하나의 이벤트 단위로 기록된다.
 
-각 상호작용은 하나의 이벤트 단위로 기록되며,
-이벤트는 분석의 최소 관측 단위로 사용된다.
-
-각 이벤트는 다음 요소를 포함한다:
-- 질문 (Prompt)
-- GPT 응답 요약
-- 의사결정 (Decision)
-- 상태 변화 (State Transition)
+본 프로젝트의 원천 데이터는 Airtable에서 관리하며,
+질문 로그는 프로젝트 진행 과정에서 지속적으로 추가된다.
+따라서 현재 저장소에는 데이터셋 원본은 포함하지 않는다.
 
 ### 2.2 데이터 한계
 
@@ -49,40 +45,7 @@
 따라서 본 데이터는 절대적인 사실을 측정하기보다,
 특정 시점의 인식과 의사결정 과정을 관측하기 위한 데이터로 해석한다.
 
-### 2.3 데이터 구조 (Schema)
-
-각 로그는 하나의 의사결정과 상태 변화가 결합된 단일 이벤트로 정의된다.
-
-- Input: 질문 정보
-  - `timestamp`
-  - `question_type`
-    - definition / comparison / design / critique
-  - `question`
-- Response: 응답 정보
-  - `gpt_response_summary`
-- Behavior: 행동 신호
-  - `engagement_level`
-    - copy / select / reframe / independent
-  - `clarification_depth`
-    - 이해 과정에서 발생한 추가 질문 및 사고 반복의 깊이
-  - `thinking_mode`
-    - linear / iterative / recursive / fragmented
-- State Change: 상태 변화
-  - `concept_state_before`
-  - `concept_state_after`
-- Decision: 의사결정
-  - `decision`
-    - move on / hold / apply
-- Reasoning: 판단 근거
-  - reasoning
-
-본 프로젝트의 데이터 구조는 고정된 설계가 아니라
-실험 과정에서 지속적으로 수정 및 확장될 수 있다.
-
-새로운 행동 패턴이 발견되거나 기존 구조의 한계가 확인될 경우,
-스키마 또한 분석 대상의 일부로 간주하고 개선한다.
-
-### 2.4 핵심 지표 정의
+### 2.3 핵심 지표 정의
 
 PUL: Portfolio Understanding Level
 
@@ -91,10 +54,10 @@ PUL은 직접 측정되는 값이 아니라,
 
 PUL은 다음 요소들의 결합으로 해석된다:
 
-- 질문 구조 변화 (definition → critique)
-- GPT 의존도 변화 (copy → independent)
-- 사고 반복 정도 (clarification_depth)
-- 사고 구조 변화 (thinking_mode)
+- 질문 구조 변화
+- GPT 의존도 변화
+- 사고 반복 정도
+- 사고 구조 변화
 
 ---
 
@@ -103,15 +66,19 @@ PUL은 다음 요소들의 결합으로 해석된다:
 본 프로젝트에서 탐색하고자 하는 가설은 다음과 같다.
 
 ### H1
-Engagement Level이 높을수록 상태 전이가 발생할 가능성이 높다.
+
+사용자의 참여가 깊어질수록, 사고 상태의 변화가 더 자주 발생할 것이다.
 
 ### H2
-Apply 결정은 Move On보다 높은 clarification_depth 이후에 발생할 가능성이 높다.
+
+단순히 다음 단계로 넘어가는 선택보다, 실제로 적용하거나 반영하는 결정은 더 많은 고민과 이해 과정을 거친 이후에 발생할 것이다.
 
 ### H3
-포트폴리오 이해 과정은 선형적으로 진행되지 않으며,
-높은 clarification_depth를 갖는 반복 구간이 발생한다.
+
+이해 과정은 직선적으로 진행되지 않으며,
+비슷한 주제나 개념을 여러 번 다시 탐색하는 구간이 반복적으로 나타날 것이다.
 
 ### H4
-개념 이해는 누적적으로 증가하기보다,
-반복적인 재해석과 재구성을 통해 변화한다.
+
+개념에 대한 이해는 점진적으로 쌓이는 형태라기보다,
+이해를 다시 해석하고 수정하는 과정을 통해 계속 바뀌는 형태일 것이다.
