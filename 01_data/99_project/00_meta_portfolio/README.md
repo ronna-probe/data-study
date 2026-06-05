@@ -1,5 +1,5 @@
 # 🧠 Data Analyst Portfolio Learning Experiment  
-## (Modeling how the concept of a portfolio is formed through behavioral data logging with GPT)
+## Modeling how the concept of a portfolio is formed through behavioral data logging with GPT
 
 ---
 
@@ -74,11 +74,6 @@ PUL은 다음 요소들의 결합으로 해석된다:
 단순히 다음 단계로 넘어가는 선택보다, 실제로 적용하거나 반영하는 결정은 더 많은 고민과 이해 과정을 거친 이후에 발생할 것이다.
 
 ### H3
-
-이해 과정은 직선적으로 진행되지 않으며,
-비슷한 주제나 개념을 여러 번 다시 탐색하는 구간이 반복적으로 나타날 것이다.
-
-### H4
 
 개념에 대한 이해는 점진적으로 쌓이는 형태라기보다,
 이해를 다시 해석하고 수정하는 과정을 통해 계속 바뀌는 형태일 것이다.
