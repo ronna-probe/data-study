@@ -2,9 +2,9 @@
 
 본 프로젝트는 GPT와의 상호작용을 이벤트 단위로 기록한다.
 
-각 로그는 특정 질문에 대한 이해, 판단, 상태 변화 과정을 하나의 이벤트로 표현한다.
+아래 이미지는 현재 사용 중인 Airtable 데이터베이스의 일부 예시이다.
 
-데이터 구조는 고정된 설계가 아니며, 프로젝트 진행 과정에서 지속적으로 수정 및 확장될 수 있다.
+<img width="942" height="543" alt="data_sample" src="https://github.com/user-attachments/assets/978bf1eb-5eb6-4032-adc1-92026f36219f" />
 
 ---
 
