@@ -1,11 +1,10 @@
 # 포트폴리오: 사고 과정 기록
 
 Date: 2026-06-05
-Label Type: state
 
 ---
 
-## Current Definition
+## Current State
 
 현재 시점에서 포트폴리오는 단순한 결과물의 모음이라기보다,
 
@@ -16,7 +15,7 @@ Label Type: state
 
 ---
 
-## What Changed
+## State Transition
 
 프로젝트를 시작하기 이전에는 포트폴리오를 프로젝트 결과물 또는 산출물의 집합으로 인식하였다.
 
@@ -26,8 +25,9 @@ Label Type: state
 
 ---
 
-## Questions
+## Open Questions
 
 아직 다음 질문들에 대해서는 명확한 답을 내리지 못하였다.
 
 - 포트폴리오의 상태 변화가 더 이상 유의미한 인식 차이를 만들지 않는 지점은 어디인가?
+- meta_portfolio 기준, 최상의 포트폴리오 구조는 무엇일까?
