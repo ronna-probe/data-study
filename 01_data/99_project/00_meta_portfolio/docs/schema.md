@@ -4,7 +4,7 @@
 
 아래 이미지는 현재 사용 중인 Airtable 데이터베이스의 일부 예시이다.
 
-<img width="942" height="543" alt="data_sample" src="https://github.com/user-attachments/assets/978bf1eb-5eb6-4032-adc1-92026f36219f" />
+<img width="942" height="543" alt="question_log_sample" src="https://github.com/user-attachments/assets/b88b6f10-7344-4791-a301-e8d931d4ed9c" />
 
 ---
 
