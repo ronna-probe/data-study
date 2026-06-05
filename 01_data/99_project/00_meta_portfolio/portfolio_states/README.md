@@ -10,6 +10,8 @@
 yyyy-mm-dd_<label>.md
 ```
 
+- label: 해당 시점에서의 포트폴리오 정의 상태
+
 ---
 
 ## Structure
