@@ -1,6 +1,10 @@
 # 🧠 Data Analyst Portfolio Learning Experiment  
 ## Modeling how the concept of a portfolio is formed through behavioral data logging with GPT
 
+본 프로젝트의 목적은
+GPT와의 대화 과정에서 나타나는 인지적 변화(cognitive transition)를
+행동 데이터로 모델링하는 것이다.
+
 ---
 
 ## 1. 문제 정의
@@ -49,19 +53,23 @@
 
 PUL: Portfolio Understanding Level
 
-PUL은 직접 측정되는 값이 아니라,  
-행동 로그에서 관측되는 여러 신호를 기반으로 추정되는 latent indicator이다.
-
-PUL은 다음 요소들의 결합으로 해석된다:
-
-- 질문 구조 변화
-- GPT 의존도 변화
-- 사고 반복 정도
-- 사고 구조 변화
+PUL은 직접 측정되는 값이 아니라,
+행동 로그에서 관측되는 여러 신호를 기반으로 추정되는 잠재 지표(latent indicator)이다.
 
 ---
 
-## 3. 가설
+## 3. 프레임워크
+
+본 프로젝트는 다음 흐름에 따라 분석을 수행한다.
+
+Question Evolution
+→ Concept Transition
+→ Decision Formation
+→ PUL Modeling
+
+---
+
+## 4. 가설
 
 본 프로젝트에서 탐색하고자 하는 가설은 다음과 같다.
 
