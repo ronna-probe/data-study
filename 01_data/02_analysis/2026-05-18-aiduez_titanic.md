@@ -1,12 +1,12 @@
 # 데이터 분석 과정
 
-AICE basic 공부할 때 사용했던 AIDUez를 통해 Titanic 데이터 분석 과정을 살펴보았다.
-
-본 분석은 KDD(Knowledge Discovery in Databases) 프로세스 흐름을 따라 진행하였다.
+AICE basic 공부할 때 사용했던 AIDUez를 통해, Titanic 데이터 분석 과정을 살펴보았다.
 
 ---
 
 ## 분석 흐름
+
+본 분석은 KDD(Knowledge Discovery in Databases) 프로세스 흐름을 따라 진행하였다.
 
 - Selection
 - Preprocessing
