@@ -1,0 +1,61 @@
+# 데이터 파이프라인
+
+본 프로젝트는 단일 시점 데이터가 아니라 지속적으로 업데이트되는 로그 데이터를 다룬다.
+
+SQL 기반 분석도 고려했지만, 현재 단계에서는 자동 수집과 간단한 분석이 가능한 구조가 더 적합하다고 판단하였다.
+이미 GAS 사용 경험이 있어 Google Sheets 기반으로 구성하였다.
+
+---
+
+## DW
+
+원본 데이터는 Airtable에 저장한다.
+
+규모는 작지만, 구조적으로 원본 저장소 역할을 하기 때문에 DW로 정의하였다.
+
+<img width="942" height="543" alt="question_log_data_sample" src="https://github.com/user-attachments/assets/584d0402-fa74-41f1-a2d2-147440731c40" />
+
+---
+
+## DM
+
+Airtable만으로는 분석이 불편하여,
+Google Sheets로 데이터를 가져와 분석하는 구조를 사용했다.
+
+이 과정에서 저장과 분석은 도구 성격이 다르다는 점을 체감했다.
+이는 OLTP / OLAP 구조에서의 역할 분리와 유사한 개념으로 이해할 수 있었다.
+
+<img width="643" height="259" alt="question_log_fetch_GAS" src="https://github.com/user-attachments/assets/d50a63ce-ac69-4355-95a1-48431d45741c" />
+
+---
+
+## 데이터 적재 및 자동화
+
+GAS를 이용해 Airtable 데이터를 Google Sheets로 가져오도록 구성했다.
+
+초기에는 API 설정 문제 등 몇 가지 이슈가 있었지만, 디버깅을 통해 정상 동작하는 구조를 만들었다.
+
+<img width="855" height="483" alt="question_log_fetch_success" src="https://github.com/user-attachments/assets/4720ab5e-d6f0-45a5-810f-b39b3d3bf6cf" />
+
+---
+
+## 데이터 품질 및 UI 개선
+
+데이터를 다루면서 다음과 같은 개선이 필요했다.
+
+- 데이터 순서가 일정하지 않음 → question_id 기준 정렬로 해결
+- 셀 높이가 일정하지 않음 → preview + note 구조로 개선
+
+이를 통해 단순 적재가 아니라 읽기 좋은 형태의 로그로 개선하였다.
+
+<img width="1180" height="736" alt="question_log_fetch_result" src="https://github.com/user-attachments/assets/44e56ecc-b065-4160-91c7-c0f2092ae1c3" />
+
+- 스프레드시트의 테이블 기능이 있어 이를 활용하였다.
+
+---
+
+## 스케줄링
+
+Google Apps Script Trigger를 사용해 하루 1회 자동으로 데이터를 동기화하도록 설정하였다.
+
+<img width="751" height="318" alt="question_log_fetch_trigger" src="https://github.com/user-attachments/assets/b98cf635-2107-4912-a526-1561f2699d5d" />
