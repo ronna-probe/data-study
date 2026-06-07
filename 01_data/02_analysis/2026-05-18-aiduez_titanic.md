@@ -12,7 +12,7 @@ AICE basic 공부할 때 사용했던 AIDUez를 통해 Titanic 데이터 분석 
 
 ## 1. 데이터 로드 및 구조 확인
 
-Titanic 데이터를 불러오고 전체 구조와 컬럼 정보를 확인하였다.
+수집한 데이터를 불러오는 것으로 시작하였다.
 
 <img width="1198" height="798" alt="aidu_load_data" src="https://github.com/user-attachments/assets/b41c692a-9164-4685-aeed-cc6dc8a1d71f" />
 
