@@ -50,7 +50,7 @@ GAS를 이용해 Airtable 데이터를 Google Sheets로 가져오도록 구성�
 이를 통해 단순 적재가 아니라 읽기 좋은 형태의 로그로 개선하였다.
 또한 스프레드시트의 테이블 기능을 활용하여 데이터 탐색 경험을 개선하였다.
 
-<img width="1267" height="611" alt="question_log_fetch_result" src="https://github.com/user-attachments/assets/d64ab3a1-5507-44c3-b31b-7bd1266e8e16" />
+<img width="1280" height="611" alt="question_log_fetch_result" src="https://github.com/user-attachments/assets/58a00687-cc64-4be0-bf3a-bd281126ff49" />
 
 ---
 
