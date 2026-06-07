@@ -56,6 +56,6 @@ GAS를 이용해 Airtable 데이터를 Google Sheets로 가져오도록 구성�
 
 ## 스케줄링
 
-Google Apps Script Trigger를 사용해 하루 1회 자동으로 데이터를 동기화하도록 설정하였다.
+Google Apps Script Trigger를 사용해 매일 1회 자동으로 데이터를 동기화하도록 설정하였다.
 
 <img width="751" height="318" alt="question_log_fetch_trigger" src="https://github.com/user-attachments/assets/b98cf635-2107-4912-a526-1561f2699d5d" />
