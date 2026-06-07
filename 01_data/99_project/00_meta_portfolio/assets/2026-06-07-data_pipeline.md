@@ -1,9 +1,10 @@
 # 데이터 파이프라인
 
-본 프로젝트는 단일 시점 데이터가 아니라 지속적으로 업데이트되는 로그 데이터를 다룬다.
+본 프로젝트는 진행 과정에서 데이터 구조가 지속적으로 확장되는 로그 기반 시스템이다.
 
-SQL 기반 분석도 고려했지만, 현재 단계에서는 자동 수집과 간단한 분석이 가능한 구조가 더 적합하다고 판단하였다.
-이미 GAS 사용 경험이 있어 Google Sheets 기반으로 구성하였다.
+SQL 기반 분석도 고려했지만, 본 데이터는 단일 스냅샷이 아니라 지속적으로 갱신되는 구조이기 때문에 고정된 테이블을 전제로 하는 방식보다는, 변경되는 데이터를 주기적으로 수집해 처리하는 구조가 더 적합하다고 판단하였다.
+
+이에 따라 기존 경험이 있는 GAS를 활용하여 Google Sheets 기반 파이프라인으로 구성하였다.
 
 ---
 
@@ -47,15 +48,14 @@ GAS를 이용해 Airtable 데이터를 Google Sheets로 가져오도록 구성�
 - 셀 높이가 일정하지 않음 → preview + note 구조로 개선
 
 이를 통해 단순 적재가 아니라 읽기 좋은 형태의 로그로 개선하였다.
+또한 스프레드시트의 테이블 기능을 활용하여 데이터 탐색 경험을 개선하였다.
 
 <img width="1280" height="612" alt="question_log_fetch_result" src="https://github.com/user-attachments/assets/8f1e8bc0-eadc-4323-8013-03f126a99a1a" />
-
-- 스프레드시트의 테이블 기능을 발견하고, 추가로 이를 활용하였다.
 
 ---
 
 ## 스케줄링
 
-Google Apps Script Trigger를 사용해 매일 1회 자동으로 데이터를 동기화하도록 설정하였다.
+Google Apps Script Trigger를 사용해, 매일 1회 자동으로 데이터를 동기화하도록 설정하였다.
 
 <img width="751" height="318" alt="question_log_fetch_trigger" src="https://github.com/user-attachments/assets/b98cf635-2107-4912-a526-1561f2699d5d" />
