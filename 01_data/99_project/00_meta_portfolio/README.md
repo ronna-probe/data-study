@@ -62,10 +62,10 @@ PUL은 직접 측정되는 값이 아니라,
 
 본 프로젝트는 다음 흐름에 따라 분석을 수행한다.
 
-Question Evolution
-→ Concept Transition
-→ Decision Formation
-→ PUL Modeling
+- Question Evolution
+- Concept Transition
+- Decision Formation
+- PUL Modeling
 
 ---
 
