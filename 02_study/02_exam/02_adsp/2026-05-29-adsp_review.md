@@ -32,7 +32,7 @@
 
 ## 결과
 
-![AICE Basic](../../../03_cert/2026-05-29-adsp.jpg)
+![AICE Basic](../../99_cert/2026-05-29-adsp.jpg)
 
 ---
 
