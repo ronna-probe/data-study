@@ -38,7 +38,9 @@ Updated PUL (new state)
 
 ---
 
-## 3. Portfolio Understanding Level (PUL)
+### Key Indicator
+
+### 1. Portfolio Understanding Level (PUL)
 
 PUL은 다음 feature들의 함수로 정의된다.
 
@@ -47,20 +49,11 @@ PUL은 다음 feature들의 함수로 정의된다.
 - F3: Application Ability
 - F4: Construction Ability
 
-PUL은 다음과 같이 표현된다.
-
-`PUL(t) = PUL(t-1) + (F1 + F2 + F3 + F4)`
+`PUL(t) = PUL(t-1) + f(F1, F2, F3, F4)`
 
 각 feature는 Question Log에서 추출된 신호를 기반으로 업데이트된다.
 
-- 정의/이해 → F1 증가
-- 비교/구조 → F2 증가
-- 적용/생성 → F3 증가
-- 평가/개선 → F4 증가
-
----
-
-## 4. Mental Model Transition Level (MMTL)
+### 2. Mental Model Transition Level (MMTL)
 
 MMTL은 단일 질문이 PUL 상태를 얼마나 변화시키는지를 나타낸다.
 
@@ -72,9 +65,23 @@ MMTL은 다음과 같이 정의된다.
 
 MMTL은 질문 단독이 아니라, 질문이 현재 PUL 상태에 적용된 결과로 정의된다.
 
+### 3. Question Complexity Index (QCI)
+
+QCI는 질문이 요구하는 사고 구조의 복잡도를 하나의 값으로 표현한 지표다.
+단순 난이도가 아니라, 질문을 처리하기 위해 필요한 인지 요소의 총량을 의미한다.
+
+QCI는 다음 feature들의 함수로 정의된다.
+
+- Evidence Signal
+- Clarification Depth
+- Question Type
+- Thinking Mode
+
+`QCI = f(ES, CD, QT, TM)`
+
 ---
 
-## 5. Observable Signals
+## 4. Observable Signals
 
 PUL과 MMTL은 Question Log에서 관측 가능한 신호를 기반으로 추정된다.
 
@@ -87,7 +94,7 @@ PUL과 MMTL은 Question Log에서 관측 가능한 신호를 기반으로 추정
 
 ---
 
-## 6. Example
+## 5. Example
 
 질문:
 
@@ -109,7 +116,7 @@ F3 + F4 구조로 확장
 
 ---
 
-## 7. Notes
+## 6. Notes
 
 본 모델은 고정된 평가 체계가 아니라 state-transition 기반 분석 구조이다.
 
