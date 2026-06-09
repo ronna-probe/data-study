@@ -51,10 +51,8 @@ GPT와의 대화 과정에서 나타나는 인지적 변화(cognitive transition
 
 ### 2.3 핵심 지표 정의
 
-PUL: Portfolio Understanding Level
-
-PUL은 직접 측정되는 값이 아니라,
-행동 로그에서 관측되는 여러 신호를 기반으로 추정되는 잠재 지표(latent indicator)이다.
+- PUL(Portfolio Understanding Level): 포트폴리오에 대한 현재 이해 상태(PUL1 ~ PUL5)
+- MMTL(Mental Model Transition Level): 질문을 통해 발생한 이해 구조의 전이 수준(MMTL0 ~ MMTL3)
 
 ---
 
@@ -65,7 +63,7 @@ PUL은 직접 측정되는 값이 아니라,
 - Question Evolution
 - Concept Transition
 - Decision Formation
-- PUL Modeling
+- PUL/MMCS Modeling
 
 ---
 
