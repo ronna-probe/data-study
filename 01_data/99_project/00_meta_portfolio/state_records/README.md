@@ -30,8 +30,9 @@
 yyyy-mm-dd_<type>_<label>.md
 ```
 
-- rfl = Reflection
-- exp = Experiment
+- type
+  - rfl = Reflection
+  - exp = Experiment
 
 ---
 
