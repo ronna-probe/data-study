@@ -34,17 +34,11 @@ PUL(t) = 0.9 × PUL(t-1) + 0.1 × QCI(t)
   LAMBDA(id,
     IF(id="","",
       LET(
-        data,
-          SORT(
-            FILTER(
-              question_metrics!B$2:S,
-              question_metrics!B$2:B = id
-            ),
-            1, TRUE
-          ),
-
         scores,
-          INDEX(data,,18),
+          FILTER(
+            D2:D,
+            B2:B = id
+          ),
 
         SCAN(
           1,
