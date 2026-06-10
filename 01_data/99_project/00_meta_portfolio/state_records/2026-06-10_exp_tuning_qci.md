@@ -40,7 +40,7 @@ QCI는 다음 요소들의 가중합으로 정의된다.
 - fragmented: 5
 
 ### 5. Decision Weight
-- hold: 1
+- hold: 0
 - move_on: 2
 - apply: 5
 
