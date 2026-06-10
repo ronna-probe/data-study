@@ -23,3 +23,38 @@ PUL(t) = 0.9 × PUL(t-1) + 0.1 × QCI(t)
 현재 계수(0.9 / 0.1)는 이론적 근거보다는 초기 가정에 가깝다.
 
 데이터가 누적되면 실제 체감과 비교하여 조정할 예정이다.
+
+---
+
+## Implementation (Sheet Logic)
+
+```text
+=BYROW(
+  B2:B,
+  LAMBDA(id,
+    IF(id="","",
+      LET(
+        data,
+          SORT(
+            FILTER(
+              question_metrics!B$2:S,
+              question_metrics!B$2:B = id
+            ),
+            1, TRUE
+          ),
+
+        scores,
+          INDEX(data,,18),
+
+        SCAN(
+          1,
+          scores,
+          LAMBDA(acc, x,
+            0.9 * acc + 0.1 * x
+          )
+        )
+      )
+    )
+  )
+)
+```
