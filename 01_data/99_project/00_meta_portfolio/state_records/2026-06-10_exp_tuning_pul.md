@@ -29,25 +29,18 @@ PUL(t) = 0.9 × PUL(t-1) + 0.1 × QCI(t)
 ## Implementation (Sheet Logic)
 
 ```text
-=BYROW(
-  B2:B,
-  LAMBDA(id,
-    IF(id="","",
-      LET(
-        scores,
-          FILTER(
-            D2:D,
-            B2:B = id
-          ),
+=LET(
+  sorted,
+    SORT(FILTER({B2:B,D2:D}, B2:B<>""), 1, TRUE),
 
-        SCAN(
-          1,
-          scores,
-          LAMBDA(acc, x,
-            0.9 * acc + 0.1 * x
-          )
-        )
-      )
+  ids, INDEX(sorted,,1),
+  qci, INDEX(sorted,,2),
+
+  SCAN(
+    INDEX(qci,1),
+    qci,
+    LAMBDA(prev, x,
+      0.9*prev + 0.1*x
     )
   )
 )
