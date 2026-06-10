@@ -33,14 +33,13 @@ PUL(t) = 0.9 × PUL(t-1) + 0.1 × QCI(t)
   sorted,
     SORT(FILTER({B2:B,D2:D}, B2:B<>""), 1, TRUE),
 
-  ids, INDEX(sorted,,1),
   qci, INDEX(sorted,,2),
 
   SCAN(
     INDEX(qci,1),
     qci,
     LAMBDA(prev, x,
-      0.9*prev + 0.1*x
+      ROUND(0.9*prev + 0.1*x, 2)
     )
   )
 )
