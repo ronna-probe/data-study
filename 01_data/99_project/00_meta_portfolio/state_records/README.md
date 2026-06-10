@@ -1,8 +1,8 @@
 # State Records
 
-이 폴더는 프로젝트 진행 과정에서 발생한 사고 변화와 의사결정 과정을 기록한다.
+이 폴더는 프로젝트 진행 과정에서 발생한 상태 변화(State Transition)를 기록한다.
 
-결과뿐 아니라, 결과에 도달하기까지의 상태 변화 또한 분석 가능한 데이터로 간주한다.
+본 프로젝트는 결과뿐 아니라, 그 결과에 도달하기까지의 사고와 인식의 변화 또한 분석 가능한 데이터로 간주한다.
 
 ---
 
@@ -30,10 +30,18 @@
 yyyy-mm-dd_<type>_<label>.md
 ```
 
+- rfl = Reflection
+- exp = Experiment
+
 ---
 
-## Philosophy
+## Index
 
-인식은 고정된 결과가 아니라 시간에 따라 변화하는 상태(State)이다.
+### Reflections
 
-따라서 그 변화 과정 또한 기록하고 관찰 가능한 데이터로 취급한다.
+- 2026-06-05_thinking_process
+- 2026-06-08_coordinate_system_projection
+
+### Experiments
+
+- 2026-06-10_pul_tuning
