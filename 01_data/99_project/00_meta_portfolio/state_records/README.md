@@ -35,13 +35,11 @@
 
 - 수식 실험
 - 파라미터 튜닝
-- 모델 비교
 
 예시:
 
 - PUL decay 조정
 - QCI 계산식 실험
-- 지표 민감도 분석
 
 ---
 
@@ -80,6 +78,23 @@ yyyy-mm-dd_<type>_<label>.md
 
 ---
 
+## Index
+
+### Reflections
+
+- 2026-06-05_rfl_thinking_process_record
+- 2026-06-08_rfl_coordinate_system_projection
+
+### Experiments
+
+- 2026-06-10_exp_pul_tuning
+
+### Evolutions
+
+- 2026-06-12_evo_reaching_a_higher_question
+
+---
+
 ## Interpretation
 
 State Records는
@@ -95,20 +110,3 @@ State Records는
 프로젝트의 결과물이 아니라
 
 프로젝트가 성장한 과정 자체를 저장하는 공간이다.
-
----
-
-## Index
-
-### Reflections
-
-- 2026-06-05_rfl_thinking_process_record
-- 2026-06-08_rfl_coordinate_system_projection
-
-### Experiments
-
-- 2026-06-10_exp_pul_tuning
-
-### Evolutions
-
-- 2026-06-12_evo_reaching_a_higher_question
