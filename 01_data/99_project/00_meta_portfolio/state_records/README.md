@@ -82,16 +82,15 @@ yyyy-mm-dd_<type>_<label>.md
 
 ### Reflections
 
-- 2026-06-05_rfl_thinking_process_record
-- 2026-06-08_rfl_coordinate_system_projection
+- 2026-06-11_rfl_redefinition_pul
 
 ### Experiments
 
-- 2026-06-10_exp_pul_tuning
+- 2026-06-10_exp_tuning_pul
 
 ### Evolutions
 
-- 2026-06-12_evo_reaching_a_higher_question
+- 2026-06-12_evo_from_measuring_to_defining
 
 ---
 
