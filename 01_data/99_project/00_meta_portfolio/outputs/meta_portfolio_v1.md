@@ -1,6 +1,6 @@
 # Meta Portfolio v1
 
-Date: 2026-06-02 ~ 2026-06-15
+Active Period: 2026-06-02 ~ 2026-06-15
 
 ## Overview
 
