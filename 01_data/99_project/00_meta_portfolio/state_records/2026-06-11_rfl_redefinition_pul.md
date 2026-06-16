@@ -1,6 +1,14 @@
 # PUL Redefinition
 
-Question ID: 56
+```text
+GPT의 말:
+
+너는 사실
+'성장에는 체감효과(diminishing returns)가 있다'
+를 표현하려는 거야.
+```
+
+Question IDs: [56]
 
 ---
 
