@@ -3,7 +3,7 @@
 출처: 유튜브 찹쓰 - PandasPedia  
 https://www.youtube.com/watch?v=ir-UMecghrM&list=PL44zjiJMJWSoZnaL4vi81i-gIRpycMIaI
 
-> SQL을 기반으로 한 데이터 조작 경험이 있는 상태에서 Pandas를 처음 학습한 기록이다.
+SQL을 기반으로 한 데이터 조작 경험이 있는 상태에서 Pandas를 처음 학습한 기록이다.
 
 ---
 
