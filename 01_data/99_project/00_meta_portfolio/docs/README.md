@@ -18,7 +18,7 @@ Data Architecture
 
 ## 0. Project Overview
 
-00_project_overview.md
+### 00_project_overview.md
 - 프로젝트 개요
 - 연구 질문
 - 분석 대상
