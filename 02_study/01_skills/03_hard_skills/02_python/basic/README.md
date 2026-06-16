@@ -1,4 +1,4 @@
-# COS PRO Python 2급 대비
+# Python Basic
 
 Python 기초 문법과 문제 해결 과정을 학습·정리하는 공간
 
