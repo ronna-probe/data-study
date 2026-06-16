@@ -1,10 +1,10 @@
 # Thinking in DataFrame
 
-SQL을 기반으로 한 데이터 조작 경험이 있는 상태에서 Pandas를 처음 학습한 기록이다.
-
 출처: 유튜브 찹쓰 - PandasPedia
 
 https://www.youtube.com/watch?v=ir-UMecghrM&list=PL44zjiJMJWSoZnaL4vi81i-gIRpycMIaI
+
+SQL을 기반으로 한 데이터 조작 경험이 있는 상태에서 Pandas를 처음 학습한 기록이다.
 
 ---
 
@@ -24,7 +24,7 @@ Pandas를 배우면서 가장 큰 변화는
 
 데이터 작업은 하나의 흐름으로 수렴한다:
 
-- Observe: 데이터를 이해한다
+- Observe: 데이터를 탐색한다
 - Select: 필요한 구조만 남긴다
 - Transform: 데이터 상태를 변경한다
 - Combine: 여러 데이터를 하나로 통합한다
@@ -49,8 +49,6 @@ SQL과 Pandas는 도구는 다르지만 사고 구조는 동일하다.
 
 ---
 
-## 본질
+## 핵심 정리
 
-Pandas를 이해한다는 것은 결국:
-
-- 데이터 상태를 원하는 형태로 정의하고 변환하는 과정이다
+Pandas를 이해한다는 것은 데이터를 DataFrame 중심으로 사고하는 것이다.
