@@ -1,5 +1,7 @@
 # Question Analytics & Learning State Modeling
 
+Date: 2026-06-10
+
 원본 로그를 수집한 이후에는, 질문 데이터를 분석 가능한 형태로 변환하고 상태 지표를 계산하는 과정이 필요했다.
 
 이를 위해 Google Sheets 상에서 가상 테이블(Virtual Table)을 구성하고,
