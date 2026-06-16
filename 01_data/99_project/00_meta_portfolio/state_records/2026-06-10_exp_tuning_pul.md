@@ -1,8 +1,6 @@
 # PUL Tuning
 
-Date: 2026-06-10
-
-Type: Experiment
+Question ID: 45
 
 ---
 
