@@ -20,19 +20,13 @@ Data Architecture
 
 ### 00_project_overview.md
 - 프로젝트 개요
-- 연구 질문
-- 분석 대상
-- 프로젝트 범위
 
 ---
 
 ## 1. Analysis Framework
 
 ### 10_analysis_framework.md
-- 분석 관점
-- 상태 전이 구조
-- 개념 재정의 과정
-- 관찰 단위 정의
+- 분석 관점 및 상태 전이 구조
 
 ---
 
@@ -40,23 +34,23 @@ Data Architecture
 
 ### 20_hypothesis.md
 - 상태 전이 관련 가설
-- 개념 재구성 관련 가설
-- 질문과 의사결정 간 관계 가설
-
+  
 ---
 
 ## 3. Data Architecture
 
 ### 30_schema.md
-- Question Log 구조
-- State Record 구조
-- Output 구조
+- 데이터 구조 정의
 
 ### 31_data_pipeline.md
-- Airtable 구조
-- Google Sheets 연동
-- 데이터 적재 및 자동화
-- 데이터 관리 방식
+- 데이터 수집 및 파이프라인
+
+---
+
+## 9. Archive
+
+### 90_archive
+- 현재 기준으로 대체된 이전 개념과 구조의 기록
 
 ---
 
