@@ -1,34 +1,39 @@
 # Outputs
 
-이 폴더는 프로젝트의 분석 결과를 저장하는 공간이 아니라,
-현재 시점에서의 학습/사고 상태를 해석하기 위한 인터페이스 레이어이다.
+이 폴더는 프로젝트의 주요 해석 결과와 마일스톤을 저장한다.
 
-State Records가 시간에 따른 변화 로그라면,
-Outputs는 그 변화를 기반으로 계산된 현재 상태를 표현한다.
+State Records가 변화 과정을 기록하는 로그라면,
+Outputs는 여러 기록을 종합하여 도출한 현재 상태, 버전, 분석 결과를 정리하는 공간이다.
 
 ---
 
 ## Scope
 
-- 현재 상태 요약 (PUL / QCI / MMTL)
-- 분석 결과 리포트
-- 대시보드 스냅샷 (현재 기준 상태)
-- 지표 계산 결과
+- Current State
+- Version Snapshot (v1, v2, ...)
+- 주요 분석 결과
+- 프로젝트 상태 요약
+- 마일스톤 기록
 
 ---
 
 ## Rule
 
-- State Records의 “과정”은 포함하지 않는다
-- Outputs는 항상 “현재 상태 기준 결과”만 가진다
-- 필요 시 과거 snapshot은 보조적으로만 저장한다
+- 변화 과정은 State Records에 기록한다.
+- Outputs는 변화 과정을 직접 기록하지 않는다.
+- Outputs는 여러 기록을 종합하여 도출한 해석 결과를 저장한다.
+- 하나의 Output은 여러 State Record를 참조할 수 있다.
 
 ---
 
-## Live State Definition
+## Relationship
 
-Outputs의 핵심은 “현재 상태(Current State)”이다.
+```text
+Question Log
+    ↓
+State Records
+    ↓
+Outputs
+```
 
-- State Records를 기반으로 계산된 최신 값이 기준이 된다
-- 대시보드는 이 Current State를 시각적으로 표현하는 인터페이스이다
-- Outputs는 결과 저장소가 아니라 상태 조회 계층이다
+Outputs는 프로젝트가 현재 어디에 도달했는지를 설명하는 계층이다.
