@@ -1,8 +1,6 @@
 # PUL Redefinition
 
-Date: 2026-06-11
-
-Type: Experiment
+Question ID: 56
 
 ---
 
