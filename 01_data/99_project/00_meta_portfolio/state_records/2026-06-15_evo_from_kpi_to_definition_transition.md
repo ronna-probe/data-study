@@ -1,6 +1,6 @@
 # 무엇을 분석할 것인가
 
-Question ID: 72 ~ 75
+Question IDs: [72, 73, 74, 75]
 
 ---
 
