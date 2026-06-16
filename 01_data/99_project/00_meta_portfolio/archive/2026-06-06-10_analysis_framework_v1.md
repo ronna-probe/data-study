@@ -1,5 +1,7 @@
 # Analysis Framework
 
+Date: 2026-06-06
+
 본 프로젝트는 포트폴리오 이해 형성 과정을 다음 네 단계로 분석한다.
 
 ## Stage 1. Question Evolution
