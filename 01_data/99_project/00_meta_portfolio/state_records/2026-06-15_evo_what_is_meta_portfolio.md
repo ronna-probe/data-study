@@ -1,6 +1,7 @@
 # 메타 질문의 최상위 도달
 
 Date: 2026-06-15
+Question ID: 76 ~ 79
 
 ```text
 GPT의 말:
