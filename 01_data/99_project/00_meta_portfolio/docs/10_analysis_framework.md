@@ -1,5 +1,7 @@
 # Analysis Framework
 
+Date: 2026-06-16
+
 본 프로젝트는 질문과 의사결정 과정을 통해
 
 개념 상태(Concept State)가 어떻게 변화하는지를 분석한다.
