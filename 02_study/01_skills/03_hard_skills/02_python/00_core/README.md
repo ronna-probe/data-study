@@ -1,4 +1,4 @@
-# Python Basic
+# Python Core
 
 Python 기초 문법과 문제 해결 과정을 학습·정리하는 공간
 
