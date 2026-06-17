@@ -5,13 +5,15 @@
 전체 문서는 다음과 같은 흐름으로 구성된다.
 
 ```text
-Project Overview
+Project Overview: 무엇을 할 것인가
       ↓
-Analysis Framework
+Analysis Framework: 어떻게 볼 것인가
       ↓
-Hypothesis
+Hypothesis: 무엇을 검증할 것인가
       ↓
-Data Architecture
+Data Architecture: 어떻게 기록할 것인가
+      ↓
+Project Operation: 어떻게 활용할 것인가
 ```
 
 ---
@@ -21,22 +23,16 @@ Data Architecture
 ### 00_project_overview
 - 프로젝트 개요
 
----
-
 ## 1. Analysis Framework
 
 ### 10_analysis_framework
 - 분석 관점 및 상태 전이 구조
-
----
 
 ## 2. Hypothesis
 
 ### 20_hypothesis
 - 상태 전이 관련 가설
   
----
-
 ## 3. Data Architecture
 
 ### 30_schema
@@ -44,6 +40,12 @@ Data Architecture
 
 ### 31_data_pipeline
 - 데이터 수집 및 파이프라인
+
+## 4. Project Operation
+
+### 40_project_operation
+- 분석 및 활용 전략
+- 결과 해석 및 커뮤니케이션
 
 ---
 
