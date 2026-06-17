@@ -1,7 +1,7 @@
 # 🧠 Data Analyst Portfolio Learning Experiment  
 ## Modeling portfolio formation via GPT behavioral logs
 
-> GPT와의 대화에서 발생하는 인지 변화를 행동 데이터로 모델링한다.
+GPT와의 대화에서 발생하는 인지 변화를 행동 데이터로 모델링한다.
 
 ---
 
