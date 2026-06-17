@@ -14,14 +14,6 @@
 
 ---
 
-## 구성
-
-- learning: 지식 축적
-- research: 문제 탐구
-- projects: 과제 수행
-
----
-
 ## 목표
 
 ### 분야
@@ -33,6 +25,14 @@
 
 - EdTech
 - Digital Platforms
+
+---
+
+## 구성
+
+- learning: 지식 축적
+- research: 문제 탐구
+- projects: 과제 수행
 
 ---
 
