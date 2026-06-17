@@ -23,13 +23,13 @@ State Record
     ↓
 Interpretation
     ↓
-Output
+State Snapshot
 ```
 
 새로운 질문이 발생하면 로그로 기록하고,  
 의미 있는 변화가 발생한 경우 State Record로 정리한다.
 
-Output은 이러한 기록을 기반으로 특정 시점의 상태를 해석한 결과물로 생성한다.
+State Snapshot은 이러한 기록을 기반으로 특정 시점의 상태를 해석한 결과물로 생성한다.
 
 ---
 
