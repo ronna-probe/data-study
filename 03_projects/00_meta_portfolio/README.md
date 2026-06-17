@@ -2,8 +2,7 @@
 ## Modeling how the concept of a portfolio is formed through behavioral data logging with GPT
 
 본 프로젝트의 목적은  
-GPT와의 대화 과정에서 나타나는 인지적 변화(cognitive transition)를  
-행동 데이터로 모델링하는 것이다.
+> GPT와의 대화 과정에서 나타나는 인지적 변화(cognitive transition) 를 행동 데이터로 모델링하는 것이다.
 
 ---
 
