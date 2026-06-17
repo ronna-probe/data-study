@@ -3,7 +3,7 @@
 Date: 2026-06-16
 
 본 프로젝트는 GPT와의 상호작용 과정에서 생성되는 질문 로그를 수집하고,
-이를 상태 변화 기록(State Record)과 결과물(Output)로 구조화하는 로그 기반 시스템이다.
+이를 상태 변화 기록(State Record)하는 로그 기반 시스템이다.
 
 프로젝트 진행 과정에서 데이터 구조가 지속적으로 확장되기 때문에,
 정적 데이터셋을 분석하는 방식보다 변경되는 로그를 지속적으로 축적하고 관리할 수 있는 구조가 필요하였다.
@@ -22,12 +22,12 @@ Google Sheets
         ↓
 State Record
         ↓
-Version Output
+State Snapshot
 ```
 
 - Question Log: 개별 질문 이벤트 기록
 - State Record: 의미 있는 상태 변화 기록
-- Output: 특정 시점 또는 버전의 결과 정리
+- State Snapshot: 특정 시점 또는 버전의 결과 정리
 
 ---
 
