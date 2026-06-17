@@ -16,8 +16,8 @@
 
 ## 구성
 
-- study: 학습
-- insights: 탐색과 분석
+- learning: 지식 축적
+- research: 문제 탐구
 - projects: 결과물
 
 ---
