@@ -48,8 +48,6 @@ Project Operation: 어떻게 활용할 것인가
 
 ## 4. Project Operation
 
-## 4. Project Operation
-
 - 40_project_operation
   - 프로젝트 운영
   - 분석 활용 전략
