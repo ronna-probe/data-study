@@ -5,6 +5,6 @@
 ---
 
 ## 구성
-- 01_product: 서비스 구조
-- 02_commerce: 전환 구조
-- 03_edtech: 학습 구조
+- product: 서비스 구조
+- commerce: 전환 구조
+- edtech: 학습 구조
