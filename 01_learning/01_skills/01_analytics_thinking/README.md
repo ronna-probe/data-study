@@ -5,5 +5,5 @@
 ---
 
 ## 구성
-- 01_data_thinking: 데이터 구조화
-- 02_general_thinking: 문제 구조화
+- data_thinking: 데이터 구조화
+- general_thinking: 문제 구조화
