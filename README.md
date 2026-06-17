@@ -18,7 +18,7 @@
 
 - learning: 지식 축적
 - research: 문제 탐구
-- projects: 결과물
+- projects: 과제 수행
 
 ---
 
