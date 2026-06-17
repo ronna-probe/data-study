@@ -18,11 +18,6 @@ Project Operation: 어떻게 활용할 것인가
 
 ---
 
-## archive
-
-- 이전 버전 설계 기록
-- 분석 체계 변화 이력
-
 ## 0. Project Overview
 
 - 00_project_overview
