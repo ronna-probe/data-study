@@ -1,4 +1,4 @@
-# 데이터 분석 역량
+# 업무 역량
 
 데이터 분석가로서 필요한 핵심 역량을 구조적으로 정리하고 학습하는 공간이다.
 
@@ -6,10 +6,10 @@
 
 ## 구성
 
-- 01_analytics_thinking: 문제 구조화 방식
-- 02_domain_business: 비즈니스 해석 방식
-- 03_hard_skills: 데이터 분석 방식
-- 04_soft_skills: 결과 전달 방식
+- 01_analytics_thinking: 문제 구조화
+- 02_domain_business: 비즈니스 해석
+- 03_hard_skills: 데이터 분석
+- 04_soft_skills: 결과 전달
 
 ---
 
