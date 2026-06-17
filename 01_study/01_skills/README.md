@@ -6,9 +6,9 @@
 
 ## 구성
 
-- 01_analytics_thinking: 문제 구조화
+- 01_analytics_thinking: 분석적 사고
 - 02_domain_business: 비즈니스 해석
-- 03_hard_skills: 데이터 분석
+- 03_hard_skills: 기술적 역량
 - 04_soft_skills: 결과 전달
 
 ---
