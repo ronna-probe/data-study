@@ -6,7 +6,7 @@
 
 ## 구성
 
-- 01_analytics_thinking: 분석적 사고
-- 02_domain_business: 비즈니스 해석
-- 03_hard_skills: 기술적 역량
-- 04_soft_skills: 협업 및 전달
+- analytics_thinking: 분석적 사고
+- domain_business: 비즈니스 해석
+- hard_skills: 기술적 역량
+- soft_skills: 협업 및 전달
