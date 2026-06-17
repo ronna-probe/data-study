@@ -6,20 +6,5 @@
 ---
 
 ## 구성
-- xx_YZ: YZ 자격증 대비 학습
-- 99_cert: 취득 자격증 목록
-
----
-
-## 관심 자격증
-- AICE Basic
-- ADsP
-- SQLD
-- 정보처리기사
-
-## 추가 고려 자격증
-- DAsP
-- 빅데이터분석기사
-- SQLP
-- ADP
-- COS Pro Python 2급
+- preparation: 자격증 대비 학습
+- certification: 취득 자격증 목록
