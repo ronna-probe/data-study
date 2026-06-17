@@ -22,30 +22,35 @@ Project Operation: 어떻게 활용할 것인가
 
 - 00_project_overview
   - 프로젝트 개요
+  - 연구 범위
 
 ## 1. Analysis Framework
 
 - 10_analysis_framework
-  - 분석 관점 및 상태 전이 구조
+  - 분석 관점
+  - 상태 전이 구조
 
 ## 2. Hypothesis
 
 - 20_hypothesis
-  - 상태 전이 관련 가설
+  - 상태 전이 가설
+  - 개념 재정의 가설
   
 ## 3. Data Architecture
 
 - 30_schema
   - 데이터 구조 정의
+  - 관측 단위 정의
 
 - 31_data_pipeline
-  - 데이터 수집 및 파이프라인
+  - 데이터 수집 구조
+  - 데이터 적재 파이프라인
 
 ## 4. Project Operation
 
 - 40_project_operation
-  - 분석 및 활용 전략
-  - 결과 해석 및 커뮤니케이션
+  - 분석 활용 전략
+  - 결과 전달 전략
 
 ---
 
