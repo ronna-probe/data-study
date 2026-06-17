@@ -6,5 +6,5 @@
 ---
 
 ## 구성
-- 01_documentation: 분석 및 의사결정 기록
-- 02_communication: 데이터 커뮤니케이션
+- documentation: 분석 및 의사결정 기록
+- communication: 데이터 커뮤니케이션
