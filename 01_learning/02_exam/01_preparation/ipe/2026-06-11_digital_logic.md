@@ -1,6 +1,6 @@
 # 논리회로 - 유튜브 바쁜직장인
 
-https://www.youtube.com/watch?v=2J5utVlCYOY&list=PLWCJKYb79gsn1iw1-RwPgJy5-Th_WOyTr
+출처: https://www.youtube.com/watch?v=2J5utVlCYOY&list=PLWCJKYb79gsn1iw1-RwPgJy5-Th_WOyTr
 
 ---
 
