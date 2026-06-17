@@ -101,7 +101,7 @@ Apply
 
 ---
 
-## State Snapshots
+## State Snapshot
 
 ```text
 Output은 최종 결과물이 아니라 특정 시점의 상태 해석이다.
@@ -110,7 +110,7 @@ Question Log
 ↓
 State Record
 ↓
-State Snapshots
+State Snapshot
 ```
 
 따라서 State Snapshots은 정답이 아니라 해당 시점의 해석 결과로 간주한다.
