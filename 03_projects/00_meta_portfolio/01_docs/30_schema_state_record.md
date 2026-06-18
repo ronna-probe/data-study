@@ -4,14 +4,11 @@ Date: 2026-06-18
 
 <img width="366" height="593" alt="state_record_repo" src="https://github.com/user-attachments/assets/2fb74f04-a339-4a29-a98f-23a5049d9281" />
 
+프로젝트 진행 과정에서 발생한 주요 상태 변화를 GitHub에 원본 로그로 기록한다.
+
 <img width="940" height="384" alt="state_record_table" src="https://github.com/user-attachments/assets/c9dd3ced-1e5a-49a0-ba68-d5bae2e91771" />
 
-본 테이블은 프로젝트 진행 과정에서 발생한 상태 변화(State Change)를 기록한다.
-
-Question Log가 변화의 원인을 기록한다면,
-
-State는 질문과 의사결정의 결과로 나타난  
-개념, 관점, 모델 구조의 변화를 기록한다.
+본 테이블은 GitHub에 저장된 상태 기록을 구조화하여 분석 가능한 형태로 변환한다.
 
 ---
 
@@ -44,27 +41,9 @@ State는 질문과 의사결정의 결과로 나타난
 
 ---
 
-## Context
+## Question IDs
 
-변화가 발생하기 직전 상태를 1~3개의 핵심 사실로 요약한다.
-
----
-
-## Shift
-
-무엇이 어떻게 달라졌는지를 이전 상태와 비교하여 기록한다.
-
----
-
-## Implication
-
-해당 변화가 이후 모델, 분석 관점 또는 기록 구조에 미치는 영향을 기록한다.
-
----
-
-## Notes
-
-핵심 변화에 포함되지 않은 보충 아이디어, 예외, 후속 질문을 기록한다.
+해당 상태 변화를 유발하거나 직접적으로 연결된 Question Log의 ID 목록이다.
 
 ---
 
@@ -78,3 +57,14 @@ State는 질문과 의사결정의 결과로 나타난
 "포트폴리오를 만들어 가는 과정 자체를 데이터분석 포트폴리오로 만들어볼 수 있을까."
 
 "무한한 세상을 유한으로 제한해서 생각하는거구나."
+
+---
+
+## Recording Structure
+
+| Value | Description |
+|---------|---------|
+| Context | 상태 |
+| Shift | 변화 |
+| Implication | 영향 |
+| Notes | 메모 |
