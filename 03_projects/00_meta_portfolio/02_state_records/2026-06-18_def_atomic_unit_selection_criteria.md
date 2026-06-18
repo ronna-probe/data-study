@@ -10,8 +10,8 @@ GPT의 말:
 “변화는 최소 몇 개의 객체로 설명 가능한가?”
 ```
 
-Question IDs: [91, 92]
-Type: def / evo transition
+Question IDs: [91, 92]  
+Type: def / evo transition  
 Date: 2026-06-18
 
 ---
