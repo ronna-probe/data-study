@@ -6,6 +6,8 @@ Date: 2026-06-18
 
 프로젝트 진행 과정에서 발생한 주요 상태 변화를 GitHub에 원본 로그로 기록한다.
 
+
+
 <img width="940" height="384" alt="state_record_table" src="https://github.com/user-attachments/assets/c9dd3ced-1e5a-49a0-ba68-d5bae2e91771" />
 
 본 테이블은 GitHub에 저장된 상태 기록을 구조화하여 분석 가능한 형태로 변환한다.
