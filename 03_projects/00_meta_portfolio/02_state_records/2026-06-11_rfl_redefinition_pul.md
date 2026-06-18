@@ -1,4 +1,4 @@
-# PUL Redefinition
+# PUL Redefinition: 학습 상태
 
 ```text
 GPT의 말:
