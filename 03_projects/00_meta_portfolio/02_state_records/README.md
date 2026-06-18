@@ -24,7 +24,7 @@
 - Shift: 발생한 변화
 - Implication: 변화의 영향
 
-필요한 경우 Notes를 추가하여
+필요한 경우 Notes를 추가하여  
 예시, 후속 질문, 메타 메모를 기록할 수 있다.
 
 ### Format Transition
