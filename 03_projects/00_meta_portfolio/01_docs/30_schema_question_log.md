@@ -1,4 +1,4 @@
-# Schema
+# Schema - Question Log
 
 Date: 2026-06-05
 
