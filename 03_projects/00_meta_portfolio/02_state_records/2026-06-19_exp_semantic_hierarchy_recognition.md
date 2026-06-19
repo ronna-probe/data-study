@@ -6,8 +6,8 @@
 생각해보니 DB가 계층적이네
 ```
 
-Question IDs: [96]
-Date: 2026.06.19
+Question IDs: [96]  
+Date: 2026.06.19  
 Type: exp
 
 ---
