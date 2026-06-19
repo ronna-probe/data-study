@@ -6,7 +6,7 @@
 
 ## Rule
 
-- 개별 변화 과정은 State Records에 기록한다.
+- 개별 변화 과정은 State Record에 기록한다.
 - `State Snapshot`은 여러 기록을 종합하여 도출한 해석 결과를 저장한다.
 - 하나의 `State Snapshot`은 여러 State Record를 참조할 수 있다.
 
