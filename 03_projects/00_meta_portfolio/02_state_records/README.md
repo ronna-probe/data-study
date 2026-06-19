@@ -9,7 +9,7 @@
 - exp (Experiment) : 지표 및 모델 실험
 - rfl (Reflection) : 프로젝트 내부 객체에 대한 해석 변화
 - def (Definition) : 핵심 개념의 정의 변화
-- evo (Evolution) : 프로젝트 관점 및 문제 구조의 변화
+- evo (Evolution) : exp/rfl/def를 포함한 시스템 구조의 시간적 변화 및 전이
 
 > exp → rfl → def → evo
 
