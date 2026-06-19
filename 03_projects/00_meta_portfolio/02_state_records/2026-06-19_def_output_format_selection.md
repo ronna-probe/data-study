@@ -7,8 +7,8 @@ GPT의 말:
 “이 프로젝트는 결과를 설명하려는가, 구조를 보여주려는가?”
 ```
 
-Question IDs: [101]
-Date: 2026.06.19
+Question IDs: [101]  
+Date: 2026.06.19  
 Type: def
 
 ---
