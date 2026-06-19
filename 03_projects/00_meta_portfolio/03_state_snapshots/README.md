@@ -6,8 +6,8 @@
 
 ## Rule
 
-- 개별 변화 과정은 State Record에 기록한다.
-- `State Snapshot`은 여러 State Record를 종합하여 특정 시점의 프로젝트 상태를 정리한다.
+- 개별 변화 과정은 `../state_record`에 기록한다.
+- State Snapshot은 여러 State Record를 종합하여 특정 시점의 프로젝트 상태를 정리한다.
 
 ---
 
