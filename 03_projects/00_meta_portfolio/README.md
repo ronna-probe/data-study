@@ -1,4 +1,4 @@
-# 🧠 META-PORTFOLIO
+# 🧠 META PORTFOLIO
 ### PORTFOLIO for portfolio
 
 ```text
@@ -21,9 +21,9 @@ portfolio를 만들어 가는 과정 자체를 `데이터분석 PORTFOLIO`로 �
 본 프로젝트는 포트폴리오라는 개념을 정의하는 과정을 다룬다.
 
 이러한 의미에서 본 프로젝트는 '포트폴리오에 대한 포트폴리오',  
-즉 하나의 메타 포트폴리오(meta-portfolio)라고 할 수 있다.
+즉 하나의 메타 포트폴리오라고 할 수 있다.
 
-따라서 프로젝트명은 `00_meta_portfolio`로 정의하였다.
+따라서 프로젝트명은 `00_META_PORTFOLIO`로 정의하였다.
 
 ---
 
