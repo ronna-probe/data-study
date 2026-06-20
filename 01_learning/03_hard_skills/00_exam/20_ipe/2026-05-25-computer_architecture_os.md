@@ -1,6 +1,4 @@
-# <혼자 공부하는 컴퓨터구조 + 운영체제> - 한빛미디어
-
-링크: https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000002942454
+# [혼자 공부하는 컴퓨터구조 + 운영체제 - 한빛미디어](https://product.kyobobook.co.kr/detail/S000061584886)
 
 ## 초기수준
 - 컴퓨터 구조와 운영체제는 개발자에게 중요한 CS 기초라는 정도만 알고 있었다.
