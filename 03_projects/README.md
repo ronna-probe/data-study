@@ -17,4 +17,4 @@
 
 ## 구성
 
-- meta-portfolio: 포트폴리오 개념 형성 과정 추적
+- meta-portfolio: 포트폴리오를 위한 포트폴리오
