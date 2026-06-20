@@ -1,4 +1,4 @@
-# [사일로](https://www.youtube.com/watch?v=hSvSGei1IKQ&list=PL-245_cWUfl9wymj0DPcxt3_r9q_T_6PB)
+# [언더커버 사일로 - 유튜브 토스챌린저스](https://www.youtube.com/watch?v=hSvSGei1IKQ&list=PL-245_cWUfl9wymj0DPcxt3_r9q_T_6PB)
 
 토스팀의 문제 해결 과정을 다룬 영상이다.
 
