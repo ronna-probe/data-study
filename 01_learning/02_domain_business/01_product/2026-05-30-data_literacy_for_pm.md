@@ -1,6 +1,5 @@
-# PM을 위한 데이터 리터러시 - 인프런 카일스쿨
-
-링크: https://www.inflearn.com/course/pm-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C?cid=329416
+# [PM을 위한 데이터 리터러시 - 인프런 카일스쿨](https://www.inflearn.com/course/pm-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C?cid=329416
+)
 
 ---
 
