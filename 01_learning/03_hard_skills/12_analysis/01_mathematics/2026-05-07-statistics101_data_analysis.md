@@ -1,6 +1,4 @@
-# 통계101 X 데이터분석 - 프리렉
-
-링크: https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000005144032
+# [통계101 X 데이터분석 - 프리렉](https://product.kyobobook.co.kr/detail/S000200053547)
 
 ADsP 시험에 대비하여 학습하던 중 통계 파트의 해석이 원활하지 않아,  
 개념 보완을 위해 별도로 학습한 책이다.
