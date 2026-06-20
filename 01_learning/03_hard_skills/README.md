@@ -6,7 +6,12 @@
 
 ## 구성
 
-- Exam: 자격증 시험
+### Foundation
+
+- Exam: 기초 역량 검증
+
+### Core Skills
+
 - Tools: 데이터 도구
 - Engineering: 데이터 엔지니어링
 - Analysis: 데이터 분석
