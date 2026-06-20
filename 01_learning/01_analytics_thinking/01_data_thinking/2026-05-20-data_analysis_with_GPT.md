@@ -1,8 +1,4 @@
-# 챗GPT로 데이터 분석 가로채기 - 디지털북스
-
-링크: https://product.kyobobook.co.kr/detail/S000214172865
-
----
+# [챗GPT로 데이터 분석 가로채기 - 디지털북스](https://product.kyobobook.co.kr/detail/S000214172865)
 
 ## 초기수준
 - ADsP 공부를 통해 기초적인 데이터 분석 흐름에 대해 조금은 알고 있었다.
