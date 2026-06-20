@@ -1,5 +1,7 @@
 # HTML/CSS가 보이는 그림책 - 성안당
 
+링크: https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000006985791
+
 예전에 Python 기반 웹 크롤링을 학습하던 시기에 이 책을 읽게 되었다.  
 당시에는 데이터 추출을 위한 웹 구조 이해가 주요 목적이었다.
 
