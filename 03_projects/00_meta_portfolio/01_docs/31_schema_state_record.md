@@ -1,7 +1,5 @@
 # Schema - State Record
 
-Date: 2026-06-18
-
 프로젝트 진행 과정에서 발생한 주요 상태 변화를 GitHub에 원본 로그로 기록한다.
 
 <img width="366" height="593" alt="state_record_repo" src="https://github.com/user-attachments/assets/2fb74f04-a339-4a29-a98f-23a5049d9281" />
