@@ -1,6 +1,4 @@
-# 실무에서 바로 쓰는 도해 만들기 - 영진닷컴
-
-링크: https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012887790
+# [실무에서 바로 쓰는 도해 만들기 - 영진닷컴](https://product.kyobobook.co.kr/detail/S000218278262)
 
 시각화 도구를 다루는 법을 배우기 전에,  
 무엇을 어떻게 보여주어야 하는지 먼저 알고 싶어 읽어보았다.
