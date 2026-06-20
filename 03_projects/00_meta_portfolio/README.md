@@ -1,5 +1,5 @@
-# 🧠 Data Analyst Portfolio Learning Experiment  
-## Modeling portfolio formation via GPT behavioral logs
+# 🧠 Meta-Portfolio System
+## PORTFOLIO for portfolio
 
 ---
 
