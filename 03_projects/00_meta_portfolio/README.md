@@ -5,7 +5,7 @@
 나의 말:
 
 나는 portfolio를 잘 모른다. 그럼 어떻게 만들어가야 하지?
-portfolio를 만들어 가는 과정 자체를 `데이터 분석 PORTFOLIO`로 만들어볼 수 있을까.
+portfolio를 만들어 가는 과정 자체를 `PORTFOLIO`로 만들어볼 수 있을까.
 ```
 
 ---
