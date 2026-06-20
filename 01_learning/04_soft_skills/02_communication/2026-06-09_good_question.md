@@ -1,6 +1,6 @@
 # 굿 퀘스천 - 아와즈 교이치로
 
-링크: https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000002981015
+링크: https://product.kyobobook.co.kr/detail/S000001912478
 
 ---
 
