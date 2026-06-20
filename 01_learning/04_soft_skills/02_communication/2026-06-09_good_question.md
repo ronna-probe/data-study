@@ -1,4 +1,4 @@
-# [굿 퀘스천 - 아와즈 교이치로](https://product.kyobobook.co.kr/detail/S000001912478)
+# [굿 퀘스천 - 아와즈 교이치로, 이새](https://product.kyobobook.co.kr/detail/S000001912478)
 
 ## 초기수준
 - 평소에는 설명을 할 때 내가 알고 있는 내용을 “정리해서 전달하는 방식”에 익숙했다.
