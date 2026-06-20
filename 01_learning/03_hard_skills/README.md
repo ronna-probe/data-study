@@ -6,8 +6,7 @@
 
 ## 구성
 
+- Exam: 자격증 시험
 - Tools: 데이터 도구
 - Engineering: 데이터 엔지니어링
 - Analysis: 데이터 분석
-- CS: 컴퓨터 과학
-- Credentials: 자격 인증

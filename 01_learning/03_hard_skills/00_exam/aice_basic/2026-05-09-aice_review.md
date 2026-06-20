@@ -19,7 +19,7 @@ AICE Future(이하 AF) 3급 자격이 필요하다는 것을 계기로 시험을
 
 ## 결과
 
-![AICE Basic](../../02_certification/2026-04-25-aice_basic.jpg)
+
 
 ## 후기
 
