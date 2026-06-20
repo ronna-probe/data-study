@@ -1,4 +1,4 @@
-# 🧠 META PORTFOLIO
+# META PORTFOLIO 🧠
 ### PORTFOLIO for portfolio
 
 ```text
