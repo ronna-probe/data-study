@@ -1,8 +1,4 @@
-# 작게 나누어 생각하기 - 센시오
-
-링크: https://product.kyobobook.co.kr/detail/S000208872333
-
----
+# [작게 나누어 생각하기 - 센시오](https://product.kyobobook.co.kr/detail/S000208872333)
 
 ## 초기수준
 - 문제 상황을 작게 쪼개어 해결하는 방식에는 나름 익숙한 편이었다.
