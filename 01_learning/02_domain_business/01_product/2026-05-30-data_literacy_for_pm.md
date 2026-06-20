@@ -1,6 +1,8 @@
 # PM을 위한 데이터 리터러시 - 인프런 카일스쿨
 
-https://www.inflearn.com/course/pm-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C?cid=329416
+링크: https://www.inflearn.com/course/pm-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A6%AC%ED%84%B0%EB%9F%AC%EC%8B%9C?cid=329416
+
+---
 
 ## 초기 수준
 
@@ -9,7 +11,7 @@ https://www.inflearn.com/course/pm-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A6%AC%ED%84%B
 - ADsP를 통해 기본적인 분석 흐름은 접해본 수준
 - 데이터 분석이 의사결정 구조로 어떻게 이어지는지 감이 없는 상태
 
-SQL, Python과 같은 도구도 물론 중요하지만, 이것들을 사용할 수 있는 능력보다도
+SQL, Python과 같은 도구도 물론 중요하지만, 이것들을 사용할 수 있는 능력보다도  
 “실무에서의 분석이 어떤 흐름으로 이어지는가”를 이해하는 것이 더 중요하다고 판단했다
 
 ---
