@@ -1,4 +1,4 @@
-# 🧠 Meta-Portfolio System
+# 🧠 Meta-Portfolio
 ### PORTFOLIO for portfolio
 
 ---
