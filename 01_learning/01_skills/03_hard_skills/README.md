@@ -12,7 +12,8 @@
 - visualization: 데이터 시각화
 
 ### Engineering
-- engineering_basics: 시스템 구조 기초
+- engineering_basic: 개발환경/도구
+- engineering_data: 데이터 파이프라인
 
 ### Analysis
 - machine_learning: 머신러닝
