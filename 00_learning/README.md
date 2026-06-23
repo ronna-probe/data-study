@@ -6,15 +6,13 @@
 
 ## 구성
 
-### Learning Method
+### 0. Learning Method
 
 학습을 더 잘하기 위한 방법
 
   - ai_thinking: AI 활용
 
-<br>
-
-### Core Skills
+### 1. Core Skills
 
 데이터 분석가 핵심 역량
 
