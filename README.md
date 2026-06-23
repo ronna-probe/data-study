@@ -30,7 +30,7 @@
 
 ## 로드맵
 
-[Cosmic Roadmap](https://ronna-probe.github.io/data-study/)
+🚀 [Cosmic Roadmap](https://ronna-probe.github.io/data-study/)
 
 ---
 
