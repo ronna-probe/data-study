@@ -28,13 +28,17 @@
 
 ---
 
-## 구성
-
-- learning: 학습
-- research: 분석
-- projects: 구현
+## 로드맵
 
 [Cosmic Roadmap](https://ronna-probe.github.io/data-study/)
+
+---
+
+## 바로가기
+
+👉 [learning: 학습](./00_learning/)  
+👉 [research: 분석](./90_research/)  
+👉 [projects: 구현](./99_projects/)  
 
 ---
 
