@@ -30,9 +30,9 @@
 
 ## 구성
 
-- learning: 지식 축적
-- research: 문제 탐구
-- projects: 과제 수행
+- learning: 지식 및 기술
+- research: 탐구 및 실습
+- projects: 설계 및 구현
 
 ---
 
