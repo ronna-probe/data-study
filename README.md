@@ -37,7 +37,9 @@
 ## 바로가기
 
 👉 [00_learning: 학습](./00_learning/)  
+
 👉 [90_research: 분석](./90_research/)  
+
 👉 [99_projects: 구현](./99_projects/)  
 
 ---
