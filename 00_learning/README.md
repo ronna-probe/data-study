@@ -1,3 +1,7 @@
+🏠 [Home](https://github.com/ronna-probe/data-study/)
+
+---
+
 # 학습
 
 데이터 분석가 역량을 구성하는 핵심 지식과 기술을 체계적으로 학습하는 공간이다.
