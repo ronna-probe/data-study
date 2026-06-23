@@ -6,15 +6,13 @@
 
 ## 구성
 
-### Foundation
+### 0. Foundation
 
 기초 역량
 
 - Exam: 기초 역량 검증
-
-<br>
-
-### Core Skills
+- 
+### 1. Core Skills
 
 실무 역량
 
