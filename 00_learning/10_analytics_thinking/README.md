@@ -1,9 +1,10 @@
 # 분석적 사고
 
-데이터를 구조적으로 해석하고 문제를 정의하는 사고 방식을 학습하는 공간이다.
+데이터 분석 사고를 단계별로 구조화해 정리하는 공간이다.
 
 ---
 
 ## 구성
-- data_thinking: 데이터 구조화
+- data_thinking: 데이터 기반 사고
 - general_thinking: 문제 구조화
+- problem_solving_cycle: 문제 해결 프로세스
