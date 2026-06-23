@@ -12,7 +12,7 @@
 
 <br>
 
-- ai_thinking: AI 활용
+  - ai_thinking: AI 활용
 
 <br>
 
