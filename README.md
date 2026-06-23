@@ -30,7 +30,7 @@
 
 ## 구성
 
-[Roadmap](https://ronna-probe.github.io/data-study/)
+[Cosmic Roadmap](https://ronna-probe.github.io/data-study/)
 
 - learning: 학습
 - research: 분석
