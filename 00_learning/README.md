@@ -6,15 +6,15 @@
 
 ## 구성
 
-### Tooling
+### Learning Method
 
-작업을 위한 도구와 사용 방식을 다루는 영역이다.
+학습을 더 잘하기 위한 방법
 
 - ai_thinking: AI 활용
 
-### Capabilities
+### Core Skills
 
-분석가가 갖추어야 할 핵심 역량을 다루는 영역이다.
+데이터 분석가 핵심 역량
 
 - analytics_thinking: 분석적 사고
 - domain_business: 비즈니스 해석
