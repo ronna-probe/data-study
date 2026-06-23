@@ -1,3 +1,7 @@
+🏠 [Home](https://github.com/ronna-probe/data-study/)
+
+---
+
 # 기술적 역량
 
 데이터 기반 문제 해결을 위해 필요한 핵심 기술 역량을 정리한다.

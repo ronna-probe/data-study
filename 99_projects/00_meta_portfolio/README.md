@@ -1,3 +1,7 @@
+🏠 [Home](https://github.com/ronna-probe/data-study/)
+
+---
+
 # META PORTFOLIO 🧠
 ### PORTFOLIO for portfolio
 

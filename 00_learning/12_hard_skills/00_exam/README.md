@@ -1,3 +1,7 @@
+🏠 [Home](https://github.com/ronna-probe/data-study/)
+
+---
+
 # 기초 역량 검증
 
 시험을 시험답게 대비하는 전략은 필요하다고 생각하지만,  

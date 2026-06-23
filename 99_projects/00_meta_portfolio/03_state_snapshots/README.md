@@ -1,3 +1,7 @@
+🏠 [Home](https://github.com/ronna-probe/data-study/)
+
+---
+
 # 상태 정리
 
 이 폴더는 프로젝트의 주요 해석과 버전별 상태를 정리한다.

@@ -1,3 +1,7 @@
+🏠 [Home](https://github.com/ronna-probe/data-study/)
+
+---
+
 # 사고 실험 및 탐구
 
 데이터 분석에 앞서 문제를 구조적으로 정의하고,  

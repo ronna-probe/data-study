@@ -1,3 +1,7 @@
+🏠 [Home](https://github.com/ronna-probe/data-study/)
+
+---
+
 # 분석 기준
 
 메타 포트폴리오를 분석하기 위한 기준과 구조를 정의한다.

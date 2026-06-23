@@ -1,3 +1,7 @@
+🏠 [Home](https://github.com/ronna-probe/data-study/)
+
+---
+
 # 변화 기록
 
 프로젝트 진행 과정에서 발생한 상태 변화와 그 영향을 기록한다.

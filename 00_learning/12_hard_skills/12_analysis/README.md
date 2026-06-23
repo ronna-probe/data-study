@@ -1,3 +1,7 @@
+🏠 [Home](https://github.com/ronna-probe/data-study/)
+
+---
+
 # 데이터 분석
 
 데이터를 기반으로 패턴을 해석하고 인사이트를 도출하는 영역이다.

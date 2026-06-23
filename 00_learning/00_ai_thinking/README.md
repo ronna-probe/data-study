@@ -1,3 +1,7 @@
+🏠 [Home](https://github.com/ronna-probe/data-study/)
+
+---
+
 # AI 활용
 
 학습 전반에서 AI를 활용하고 있으며,  
