@@ -30,9 +30,9 @@
 
 ## 구성
 
-- learning: 지식 및 기술
-- research: 탐구 및 실습
-- projects: 설계 및 구현
+- learning: 학습
+- research: 분석
+- projects: 구현
 
 ---
 
