@@ -12,6 +12,8 @@
 
 - Exam: 기초 역량 검증
 
+<br>
+
 ### Core Skills
 
 실무 역량
