@@ -14,6 +14,8 @@
 
 - ai_thinking: AI 활용
 
+<br>
+
 ### Core Skills
 
 데이터 분석가 핵심 역량
