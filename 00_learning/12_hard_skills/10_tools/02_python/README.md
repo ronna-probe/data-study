@@ -2,13 +2,13 @@
 
 ---
 
-# 데이터 분석 및 자동화
+# 데이터 처리
 
-Python 및 데이터 분석 라이브러리 학습 과정을 기록한다.
+Python 데이터 처리 학습 기록
 
 ---
 
-## 2. 학습 범위
+## 학습 범위
 
-- Python Core
-- Data Analysis Libraries
+- Basics: 기초 구현
+- Libraries: 데이터 분석 라이브러리
