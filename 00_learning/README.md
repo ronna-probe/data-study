@@ -12,9 +12,9 @@
 
 ### 0. Learning Method
 
-학습을 더 잘하기 위한 방법
+학습 방식을 설계하는 메타 영역
 
-  - ai_thinking: AI 활용
+- ai_thinking: AI 활용
 
 ### 1. Core Skills
 
