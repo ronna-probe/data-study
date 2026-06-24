@@ -16,7 +16,7 @@
 
 ## 로드맵
 
-구조를 전처리한 모델링
+레포 구조를 전처리한 모델링
 
 🚀 [Cosmic Roadmap](https://ronna-probe.github.io/data-study/index.html)
 
