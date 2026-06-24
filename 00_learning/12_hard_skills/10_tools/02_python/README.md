@@ -1,3 +1,7 @@
+🏠 [Home](https://github.com/ronna-probe/data-study/)
+
+---
+
 # 데이터 분석 및 자동화
 
 Python 및 데이터 분석 라이브러리 학습 과정을 기록한다.
