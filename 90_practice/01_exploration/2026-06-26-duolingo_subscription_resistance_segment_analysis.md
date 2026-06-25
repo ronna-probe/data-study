@@ -1,12 +1,12 @@
-# 듀오링고 Subscription Resistance 세그먼트 분석 (자기 인식 기반 행동 가설)
+# 듀오링고 Subscription Resistance 세그먼트 분석
 
 이 문서는 개인적인 서비스 사용 및 소비 경험에서 출발한 관찰 기록이다.
+
+<img width="1125" height="2214" alt="duolingo_streak_retention_signal" src="https://github.com/user-attachments/assets/40ff4a0d-477b-48b5-9939-769444bfc2df" />
 
 ---
 
 ## 0. 배경
-
-<img width="1125" height="2214" alt="duolingo_streak_retention_signal" src="https://github.com/user-attachments/assets/40ff4a0d-477b-48b5-9939-769444bfc2df" />
 
 나는 현재 듀오링고를 매일같이 사용하고 있다.  
 하지만 프리미엄 기능은 결제할 의사가 없다.  
