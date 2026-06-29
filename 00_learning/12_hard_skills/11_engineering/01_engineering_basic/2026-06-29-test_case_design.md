@@ -1,4 +1,4 @@
-# [초보 PM을 위한 Test Case & QA 노하우 - 인프런 플래터워크랩](https://www.inflearn.com/course/%EC%B4%88%EB%B3%B4-pm-test-case-qa-%EB%85%B8%ED%95%98%EC%9A%B0/dashboard?cid=329018)
+# [초보 PM을 위한 Test Case - 인프런 플래터워크랩](https://www.inflearn.com/course/%EC%B4%88%EB%B3%B4-pm-test-case-qa-%EB%85%B8%ED%95%98%EC%9A%B0/dashboard?cid=329018)
 
 ## 수강 계기
 
