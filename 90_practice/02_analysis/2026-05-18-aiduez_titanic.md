@@ -48,7 +48,7 @@ Heatmap을 통해 변수 간 상관관계를 분석하고 생존과 관련성이
 
 ## 4. Data Mining (모델 학습)
 
-Logistic Regression을 사용하여 생존 여부를 예측하는 모델을 학습하였다.
+Logistic Regression을 사용하여 생존 여부를 예측하는 모델을 학습하였다.  
 데이터를 기반으로 생존 확률을 추정하는 이진 분류 문제로 정의하였다.
 
 <img width="1198" height="796" alt="aidu_logistic_regression" src="https://github.com/user-attachments/assets/6ed8f0b2-ce96-4062-89f4-aa8c503dc966" />
