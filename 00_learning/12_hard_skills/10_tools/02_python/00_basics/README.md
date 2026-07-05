@@ -9,7 +9,7 @@ Python 기반 기초 구현 및 문제 해결 과정을 정리한다.
 ---
 
 ## 범위
-- Programmers Lv.0 ~ Lv.1
+- Programmers Level 0
 
 ---
 
