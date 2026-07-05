@@ -1,12 +1,14 @@
 🏠 [Home](https://github.com/ronna-probe/data-study/)
 
----
+```text
+나의 말:
 
 프로그래머스 SQL 문제 풀이, SQLD 시험 준비 등을 통해  
 SQL 문법과 데이터 조회 방법을 학습해왔다.  
 
 하지만 문법은 익혀갔음에도  
 개별 문법이 사용되는 맥락을 이해하기 어려웠다.
+```
 
 ---
 
