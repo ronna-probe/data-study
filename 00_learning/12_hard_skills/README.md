@@ -23,3 +23,7 @@
 - Tools: 작업 도구
 - Engineering: 데이터 엔지니어링
 - Analysis: 데이터 분석
+<<<<<<< HEAD
+=======
+- Automation: 자동화 도구
+>>>>>>> 6e57122460ac0d48ad08bd72435353bd540dd4c0
