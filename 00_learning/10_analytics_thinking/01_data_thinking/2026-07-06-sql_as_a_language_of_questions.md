@@ -10,8 +10,8 @@ SQL은 이미 저장된 데이터에 질문을 던지는 언어에 가깝다.
 
 ## 초기 수준
 
-- 기본 문법 및 [관계형 데이터베이스](https://github.com/ronna-probe/data-study/blob/main/00_learning/12_hard_skills/10_tools/01_sql/2026-06-22-database-fundamentals.md)에 대한 기초적인 이해를 갖추고 있었다.
-- [SQL 첫걸음](https://github.com/ronna-probe/data-study/blob/main/00_learning/12_hard_skills/10_tools/01_sql/2026-07-04-sql_first_step_relational_query_thinking.md) 독후감을 정리하는 과정에서 우연히 이 책을 발견했고, 책 소개에 흥미를 느껴 읽게 되었다.
+- 기본 문법 및 관계형 데이터베이스에 대한 기초적인 이해를 갖추고 있었다.
+- SQL 첫걸음 독후감을 정리하는 과정에서 우연히 이 책을 발견했고, 책 소개에 흥미를 느껴 읽게 되었다.
 
 ## 목차
 
