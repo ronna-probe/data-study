@@ -1,5 +1,7 @@
 🏠 [Home](https://github.com/ronna-probe/data-study/)
 
+---
+
 프로그래머스 SQL 문제 풀이, SQLD 시험 준비 등을 통해  
 SQL 문법과 데이터 조회 방법을 학습해왔다.  
 
