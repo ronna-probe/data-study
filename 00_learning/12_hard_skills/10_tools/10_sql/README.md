@@ -1,5 +1,7 @@
 🏠 [Home](https://github.com/ronna-probe/data-study/)
 
+---
+
 ```text
 나의 말:
 
