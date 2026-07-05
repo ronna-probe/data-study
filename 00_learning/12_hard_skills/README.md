@@ -23,3 +23,4 @@
 - Tools: 데이터 도구
 - Engineering: 데이터 엔지니어링
 - Analysis: 데이터 분석
+- Automation: 업무 자동화
