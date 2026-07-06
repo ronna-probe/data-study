@@ -11,6 +11,6 @@
 ## 구성
 
 - Foundations: 기초 이해
-- Tools: 데이터 도구
+- Data Handling: 데이터 도구
 - Modeling: 예측 모델
 - Automation: 자동화
