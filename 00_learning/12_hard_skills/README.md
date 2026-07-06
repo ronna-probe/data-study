@@ -13,4 +13,4 @@
 - Foundations: 기초 이해
 - Data Handling: 데이터 도구
 - Modeling: 예측 모델
-- Automation: 자동화
+- Automation: 작업 자동화
