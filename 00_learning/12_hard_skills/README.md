@@ -10,16 +10,7 @@
 
 ## 구성
 
-### 0. Foundation
-
-기초 역량
-
-- Exam: 기초 역량 검증
-  
-### 1. Core Skills
-
-실무 역량
-
-- Tools: 작업 도구
-- Engineering: 데이터 엔지니어링
-- Analysis: 데이터 분석
+- Foundations: 기초 이해
+- Tools: 데이터 도구
+- Modeling: 예측 모델
+- Automation: 자동화
