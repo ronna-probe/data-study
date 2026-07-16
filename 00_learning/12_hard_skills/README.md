@@ -10,7 +10,7 @@
 
 ## 구성
 
-- Foundations: 기반 지식
-- Data Handling: 데이터 도구
-- Modeling: 예측 모델
-- Automation: 작업 자동화
+- foundations: 기반 지식
+- data_handling: 데이터 도구
+- modeling: 예측 모델
+- automation: 작업 자동화

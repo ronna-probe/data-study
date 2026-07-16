@@ -8,7 +8,7 @@
 
 ## 구성
 
-- Math: 수학적 사고
-- Computing: 컴퓨팅 원리
-- Stack: 기술 이해
-- Certification: 자격 검증
+- math: 수학적 사고
+- computing: 컴퓨팅 원리
+- stack: 기술 이해
+- certification: 자격 검증

@@ -10,11 +10,11 @@
 
 ## 구성
 
-### 0. Learning Method
+### 0. Meta Skills
 
-학습 방식을 설계하는 메타 영역
+효과적인 학습과 성장을 위한 메타 역량
 
-- ai_thinking: AI 활용
+- cognitive_design: 인지 설계
 
 ### 1. Core Skills
 

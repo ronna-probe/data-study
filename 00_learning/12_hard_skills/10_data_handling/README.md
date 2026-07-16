@@ -12,15 +12,15 @@
 
 ### 1. SQL: 데이터 추출
 
-- Data Modeling: 데이터 모델링
-- Data Querying: 데이터 질의
+- data_modeling: 데이터 모델링
+- data_querying: 데이터 질의
 
 ### 2. Python: 데이터 처리
 
-- Basics: 파이썬 기초
-- Libraries: 라이브러리
+- basics: 파이썬 기초
+- libraries: 라이브러리
 
 ### 3. Visualization: 데이터 시각화
 
-- Information Design: 정보 설계
-- Visualization Implementation: 시각화 구현
+- information_design: 정보 설계
+- visualization_implementation: 시각화 구현
