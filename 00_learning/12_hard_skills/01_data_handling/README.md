@@ -4,7 +4,7 @@
 
 # 데이터 도구
 
-데이터 기반 문제 해결에 활용되는 핵심 실무 도구를 정리하는 공간이다.
+데이터를 추출하고 처리하기 위한 핵심 실무 도구를 다룬다.
 
 ---
 
@@ -19,8 +19,3 @@
 
 - basics: 파이썬 기초
 - libraries: 라이브러리
-
-### 3. Visualization: 데이터 시각화
-
-- information_design: 정보 설계
-- visualization_implementation: 시각화 구현
