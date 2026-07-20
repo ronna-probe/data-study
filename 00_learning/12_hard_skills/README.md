@@ -12,5 +12,6 @@
 
 - foundations: 기반 지식
 - data_handling: 데이터 도구
-- modeling: 예측 모델
+- code_quality: 코드 품질
+- modeling: 분석 모델
 - automation: 작업 자동화
