@@ -10,8 +10,13 @@
 
 ## 구성
 
+### 0. Essentials
+
 - foundations: 기반 지식
 - data_handling: 데이터 도구
+
+### 1. Extensions
+
 - code_quality: 코드 품질
 - modeling: 분석 모델
 - automation: 작업 자동화
