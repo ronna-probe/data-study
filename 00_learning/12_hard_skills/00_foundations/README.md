@@ -10,5 +10,5 @@
 
 - math: 수학적 사고
 - computing: 컴퓨팅 원리
-- stack: 기술 이해
+- cross_functional: 업무 구조
 - certification: 자격 검증
