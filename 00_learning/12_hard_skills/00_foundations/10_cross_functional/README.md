@@ -35,7 +35,7 @@ Data Pipeline
   ↓
 Data Warehouse
   ↓
-SQL · Python
+Data Analysis
   ↓
 Dashboard
 ```
