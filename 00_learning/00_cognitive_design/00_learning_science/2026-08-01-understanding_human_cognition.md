@@ -1,4 +1,4 @@
-# [그림으로 이해하는 인지과학](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000002950881?_gl=1*1uadxwj*_ga*MTk1NTQ1NTMxMS4xNzc1MTgwNDk4*_ga_CQHKV7VZV7*czE3ODU0OTYxNzckbzQ1JGcxJHQxNzg1NDk2MTgzJGo1NCRsMCRoMA..)
+# [그림으로 이해하는 인지과학](https://product.kyobobook.co.kr/detail/S000001834816)
 
 ---
 
@@ -36,7 +36,7 @@
 ## 서평
 
 - 사람을 이해하는 다양한 개념들이 결국 하나의 정보 처리 과정 위에서 설명될 수 있다는 점이 흥미로웠다.
-- 새로운 것을 이해한다는 것은 정보를 단순히 저장하는 것이 아니라, 인지 체계를 통해 의미를 재구성하는 과정이라는 점이 인상 깊었다.
+- 새로운 것을 이해한다는 것은 정보를 단순히 저장하는 것이 아니라, **인지 체계를 통해 의미를 재구성하는 과정**이라는 점이 인상 깊었다.
 
 ---
 
