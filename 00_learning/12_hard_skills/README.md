@@ -13,11 +13,16 @@
 ### 0. Essentials
 
 - foundations: 기반 지식
-- data_handling: 데이터 도구
-- data_visualization: 데이터 시각화
 
-### 1. Extensions
+
+### 1. Engineering
 
 - code_quality: 코드 품질
-- modeling: 분석 모델
 - automation: 작업 자동화
+
+### 2. Data
+
+- data_handling: 데이터 도구
+- data_visualization: 데이터 시각화
+- machine_learning: 머신러닝 
+- data_analysis: 데이터 분석
