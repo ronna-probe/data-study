@@ -14,15 +14,13 @@
 
 - foundations: 기반 지식
 
-
 ### 1. Engineering
 
 - code_quality: 코드 품질
 - automation: 작업 자동화
 
-### 2. Data
+### 2. Data Analysis
 
 - data_handling: 데이터 도구
 - data_visualization: 데이터 시각화
-- machine_learning: 머신러닝 
-- data_analysis: 데이터 분석
+- data_mining: 데이터 마이닝
