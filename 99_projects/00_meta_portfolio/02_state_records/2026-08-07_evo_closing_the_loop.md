@@ -6,9 +6,9 @@
 결국 아무것도 해결되지 않았지만, 모든 것이 해결되었다.
 ```
 
-Question IDs: [111, 112]
-Date: 2026.08.07
-Type: evo
+Question IDs: [111, 112]  
+Date: 2026.08.07  
+Type: evo  
 
 ---
 
