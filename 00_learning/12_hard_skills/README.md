@@ -17,6 +17,7 @@
 ### 1. Engineering
 
 - code_quality: 코드 품질
+- testing: 코드 검증
 - automation: 작업 자동화
 
 ### 2. Data Analysis
