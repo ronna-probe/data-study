@@ -4,11 +4,13 @@
 
 # 기반 지식
 
-데이터와 기술을 이해하기 위한 기본 지식과 역량을 정리하는 공간이다.
+데이터와 기술을 이해하고 활용하기 위한 기본 지식과 역량을 정리하는 공간이다.
+
+---
 
 ## 구성
 
-- math: 수학적 사고
+- math: 수학 기초
 - computing: 컴퓨팅 원리
-- cross_functional: 협업 기반 지식
-- certification: 자격 검증
+- cross_functional: 인접 영역 이해
+- python_basics: 파이썬 기초
