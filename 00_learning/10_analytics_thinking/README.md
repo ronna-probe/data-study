@@ -9,6 +9,13 @@
 ---
 
 ## 구성
-- data_thinking: 데이터 기반 사고
-- general_thinking: 문제 구조화
-- problem_solving_cycle: 문제 해결 프로세스
+
+### 1. 분석 과정
+
+- data_thinking: 데이터 해석
+- problem_solving_cycle: 문제 해결
+
+### 2. 사고 확장
+
+- thinking_approaches: 사고 방식
+- thinking_transfer: 사고 전이
