@@ -13,4 +13,3 @@
 - math: 수학 기초
 - computing: 컴퓨팅 원리
 - cross_functional: 인접 영역 이해
-- python_basics: 파이썬 기초
