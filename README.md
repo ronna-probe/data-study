@@ -24,8 +24,8 @@
 
 ### 직무
 
-- Product Manager (PM)
 - Data Analyst (DA)
+- Product Manager (PM)
 
 ### 업종
 
