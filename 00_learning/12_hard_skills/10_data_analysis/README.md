@@ -13,7 +13,7 @@
 ### 1. Data Handling
 
 - modeling: 데이터 모델링
-- querying: 데이터 조회
+- querying: 데이터 질의
 
 ### 2. Analysis Methods
 

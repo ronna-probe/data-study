@@ -11,5 +11,4 @@
 ## 구성
 
 - python: 파이썬 기초
-- sql: 데이터 추출
-- sql_to_pandas: 코드 번역
+- answering_data_questions: 데이터 조작
