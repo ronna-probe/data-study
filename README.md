@@ -1,6 +1,5 @@
-# Data Study
+# Data Study — 데이터의 행간을 읽는다.
 
-데이터의 행간을 읽는다.
 
 <details>
 <summary>PRESS START</summary>
