@@ -1,11 +1,11 @@
 # Data Study
 
-데이터의 행간을 읽는다.
-
 🚀 [Cosmic Roadmap](https://ronna-probe.github.io/data-study/index.html)
 
+> 데이터의 행간을 읽는다.
+
 <details>
-<summary>PRESS START ◀</summary>
+<summary>PRESS START</summary>
 
 ---
 
