@@ -2,8 +2,10 @@
 
 데이터의 행간을 읽는다.
 
+🚀 [Cosmic Roadmap](https://ronna-probe.github.io/data-study/index.html)
+
 <details>
-<summary>행간 읽어보기</summary>
+<summary>PRESS START ◀</summary>
 
 ---
 
@@ -14,12 +16,6 @@
 👉 [90: 실습](./90_practice/)  
 
 👉 [99: 구현](./99_projects/)  
-
----
-
-## 로드맵
-
-🚀 [Cosmic Roadmap](https://ronna-probe.github.io/data-study/index.html)
 
 ---
 
