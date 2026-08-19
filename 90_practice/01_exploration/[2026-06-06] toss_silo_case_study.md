@@ -15,7 +15,7 @@
 ## 1. 인플로우 사일로
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 ### a. 공유 성공률
 
@@ -58,7 +58,7 @@
 ## 2. 만보기 사일로
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 ### a. 리워드 구조 개편
 
@@ -88,7 +88,7 @@
 ## 3. 페이스 페이 사일로
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 우선 사고실험만 하는 것보다는, 테스트케이스를 통해 체감하는게 중요하다는 생각이 들었다.
 
@@ -112,7 +112,7 @@
 ## 비하인드 1
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 > 공유를 하면 1원을 받을 수 있어 → 하고싶은게 있지? 하려면 공유하면 돼.
 
@@ -135,7 +135,7 @@
 ## 4. 고양이 키우기 사일로
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
  
 > DAU 리텐션 개선 → '오늘 들어온 유저가 내일 들어오게끔' 번역이 좋은 것 같다.
 
@@ -161,7 +161,7 @@
 ## 5. 계좌 만들기 사일로
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
  
 나라면 무슨 아이디어를 제시했을까.  
 우선 제약조건이 있었고, 상황은 `퍼널의 두 단계에서 전환율이 각각 10%씩`이라는 것이다.  
@@ -197,7 +197,7 @@ B팀:
 ## 비하인드 2
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
  
 ### 페이스 페이
 
@@ -231,7 +231,7 @@ B팀:
 ## 후기
 
 <details open>
-<summary>more</summary>
+<summary>⋯</summary>
 
 수능 보기전에 모의고사를 치르는 듯한 느낌이었고, 정말 흥미롭게 봤다.
 

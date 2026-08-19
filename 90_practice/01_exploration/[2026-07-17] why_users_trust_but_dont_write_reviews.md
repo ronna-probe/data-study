@@ -30,7 +30,7 @@
 ## 1. 관찰
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 ### 1-1. 리뷰 소비
 
@@ -55,7 +55,7 @@
 ## 2. 문제 정의
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 본 문서에서는 다음 질문을 중심으로 탐색하고자 한다.
 
@@ -68,7 +68,7 @@
 ## 3. 가설
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 ### 3-1. 리뷰는 공공재이기 때문에 무임승차가 발생한다.
 
@@ -124,7 +124,7 @@
 ## 4. 개선 아이디어
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 ### 4-1. 작성 비용
 

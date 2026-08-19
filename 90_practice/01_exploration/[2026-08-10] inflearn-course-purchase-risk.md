@@ -27,7 +27,7 @@
 ## 가설
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 ### 1. 전체 강의 구매는 콘텐츠 가치에 대한 불확실성을 동반한다.
 
@@ -50,7 +50,7 @@
 ## 아이디어
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 ### 1. 모듈형 강의 구매
 
@@ -142,7 +142,7 @@ a1 + b2 + b3
 ## 기대 효과
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 ### 학습자
 
@@ -182,7 +182,7 @@ a1 + b2 + b3
 ## 검증하고 싶은 것
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 이 아이디어의 핵심은 단순히 부분 구매가 늘어나는지가 아니다.
 
@@ -219,7 +219,7 @@ a1 + b2 + b3
 ## 추가로 탐색할 수 있는 문제
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 모듈별 구매 데이터를 확보한다면  
 강의의 구성 자체를 개선하는 데에도 활용할 수 있다.
@@ -250,7 +250,7 @@ SQL                구매율 31%
 ## 핵심 질문
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 > **강의 전체를 하나의 구매 단위로 판매하는 것이 정말 최선인가?**
 

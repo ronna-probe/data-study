@@ -25,7 +25,7 @@
 ## 1. 관찰된 유저 행동
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 ### 1-1. 서비스 사용 패턴
 
@@ -51,7 +51,7 @@
 ## 2. 사례 (구독 경험)
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 유저는 효용과 무관하게 구독료를  
 심리회계학적으로 고정지출로 분류한다.
@@ -68,7 +68,7 @@
 ## 3. 세그먼트 정의
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 - 효용은 인정하지만 구독 상태 유지는 거부한다.
 - 결제 금액보다 결제 방식 자체가 더 큰 결정 요인이다.
@@ -82,7 +82,7 @@
 ## 4. 전략
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 이 유저는 마케팅이나 기능 개선으로 전환시킬 대상이 아니라  
 결제 구조 자체를 다시 설계해야만 반응이 생기는 유형이다
@@ -97,7 +97,7 @@
 ## 5. 결론
 
 <details open>
-<summary>more</summary>
+<summary>⋯</summary>
 
 이 세그먼트는 무료 사용자이지만 DAU에 기여하는 안정적인 사용층이다.  
 전환해야 할 대상이 아니라, 제품 구조를 재검증하게 만드는 사용자다.

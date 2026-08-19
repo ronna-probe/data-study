@@ -25,7 +25,7 @@
 ## 1. 서비스 이해
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 ### 1-1. 인프랩의 비즈니스 구조
 
@@ -57,7 +57,7 @@
 ## 2. 조직 구조 추론
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 서비스 구조를 바탕으로 주요 조직을 다음과 같이 추론하였다.
 
@@ -76,7 +76,7 @@
 ## 3. 핵심 KPI 정의
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 본 프로젝트에서는 다음 두 가지 KPI에 집중하였다.
 
@@ -98,7 +98,7 @@
 ## 4. 문제 정의
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 온라인 강의 서비스에서는 많은 사용자가 강의를 구매하지만,  
 실제로 끝까지 수강하는 비율은 높지 않을 수 있다.
@@ -131,7 +131,7 @@
 ## 5. 가설 설정
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 ### 가설 1. 기대치 불일치
 
@@ -184,7 +184,7 @@
 ## 6. 필요한 데이터 정의
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 ### 6-1. 사용자 데이터
 
@@ -233,7 +233,7 @@
 ## 7. 기대 인사이트
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 본 프로젝트를 통해 다음과 같은 인사이트를 얻을 수 있을 것으로 기대한다.
 
@@ -249,7 +249,7 @@
 ## 8. 개선 아이디어
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 ### 8-1. 초기 이탈 방지 정책
 
@@ -292,7 +292,7 @@
 ## 결론
 
 <details open>
-<summary>more</summary>
+<summary>⋯</summary>
 
 완강률은 단순 학습 지표가 아니라,
 

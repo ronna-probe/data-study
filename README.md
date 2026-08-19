@@ -3,7 +3,7 @@
 데이터의 행간을 읽는다.
 
 <details>
-<summary>more</summary>
+<summary>⋯</summary>
 
 ---
 
