@@ -23,4 +23,10 @@
 - analytics_thinking: 분석적 사고
 - domain_business: 비즈니스 해석
 - hard_skills: 기술적 역량
-- soft_skills: 협업 및 전달
+- soft_skills: 소통 역량
+
+### 2. Adjacent Skills
+
+핵심 역량의 잠재적 확장 영역
+
+- exploration: 탐색 영역
