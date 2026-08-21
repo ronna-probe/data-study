@@ -10,5 +10,5 @@
 
 ## 구성
 
-- python: 파이썬 기초
-- answering_data_questions: 데이터 조작
+- python_basic: 파이썬 기초
+- data_questions: 데이터 조작
