@@ -2,6 +2,20 @@
 
 ---
 
-# 사고 방식
+# 사고방식
 
-문제와 현상을 바라보는 다양한 사고 방식을 정리하는 공간이다.
+다양한 사고방식을 이해하고 활용하는 방법을 정리하는 공간이다.
+
+---
+
+## 구성
+
+### 0. Meta Layer
+
+- meta_thinking: 메타사고
+
+### 1. Applied Layer
+
+- transfer_thinking: 사고 전이
+- data_thinking: 데이터 사고
+

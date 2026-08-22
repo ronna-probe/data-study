@@ -10,11 +10,5 @@
 
 ## 구성
 
-### 1. General
-
 - thinking_approaches: 사고 방식
-
-### 2. Analytical
-
-- data_thinking: 데이터 사고
 - problem_solving: 문제 해결
