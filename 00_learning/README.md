@@ -10,6 +10,10 @@
 
 ## 구성
 
+### 0. Meta Skills
+
+- cognitive_design: 인지 설계
+
 ### 1. Core Skills
 
 - analytics_thinking: 분석적 사고
@@ -17,6 +21,7 @@
 - hard_skills: 기술적 역량
 - soft_skills: 소통 역량
 
-### 2. Adjacent Skills
+### 9. Adjacent Skills
 
 - adjacent: 보조 지식
+- certification: 자격 검증
