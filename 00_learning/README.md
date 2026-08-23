@@ -12,7 +12,7 @@
 
 ### 0. Meta Skills
 
-- cognitive_design: 인지 설계
+- meta_learning: 학습 설계
 
 ### 1. Core Skills
 
