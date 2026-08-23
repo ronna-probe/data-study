@@ -10,6 +10,7 @@
 
 자격증은 그 자체가 목적이 아니라, 이해의 결과로 따라오는 것이라고 생각한다.
 ```
+
 ---
 
 # 자격 검증
@@ -25,17 +26,11 @@
 
 ---
 
-## Studying
+## Interested
 
 - SQLD
 - 정보처리기사
-
----
-
-## Optional
-
 - DAsP
 - 빅데이터분석기사
 - SQLP
 - ADP
-- COS Pro Python 2급
