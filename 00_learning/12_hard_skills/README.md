@@ -12,5 +12,3 @@
 
 - data_analysis: 데이터 분석
 - data_visualization: 데이터 시각화
-- engineering: 기술 이해
-

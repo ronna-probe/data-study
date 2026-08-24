@@ -10,12 +10,16 @@
 
 ## 구성
 
-### Knowledge Extensions
+### 1. Human Studies
 
 - human_understanding: 인간 이해
+
+### 2. Technical Knowledge
+
 - foundations: 기반 지식
+- engineering: 기술 이해
 - cross_functional: 인접 영역 이해
 
-### Open Areas
+### 9. Open Areas
 
 - exploration: 탐색 영역
