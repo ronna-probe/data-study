@@ -23,3 +23,4 @@
 ### 9. Open Areas
 
 - exploration: 탐색 영역
+- etc: 별도 영역
