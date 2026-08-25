@@ -20,7 +20,7 @@
 - engineering: 기술 이해
 - cross_functional: 인접 영역 이해
 
-### 9. Open Areas
+### 9. Supporting Areas
 
-- exploration: 탐색 영역
+- certification: 자격 검증
 - etc: 별도 영역

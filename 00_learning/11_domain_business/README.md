@@ -10,6 +10,7 @@
 ---
 
 ## 구성
+
 - product: 제품과 경험
 - commerce: 시장과 거래
 - edtech: 학습 서비스

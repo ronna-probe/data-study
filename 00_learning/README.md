@@ -16,7 +16,7 @@
 
 ### 1. Core Skills
 
-- analytics_thinking: 분석적 사고
+- analytical_thinking: 분석적 사고
 - domain_business: 비즈니스 해석
 - hard_skills: 기술적 역량
 - soft_skills: 소통 역량
@@ -24,4 +24,3 @@
 ### 9. Adjacent Skills
 
 - adjacent: 보조 지식
-- certification: 자격 검증
