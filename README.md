@@ -2,18 +2,18 @@
 
 데이터의 행간을 읽는다.
 
-> 👉 [00: 학습](./00_learning/)  
-> 
-> 👉 [90: 실습](./90_practice/)  
-> 
-> 👉 [99: 구현](./99_projects/)  
+👉 [00: 학습](./00_learning/)  
+
+👉 [90: 실습](./90_practice/)  
+
+👉 [99: 구현](./99_projects/)  
 
 ---
 
 <details>
 <summary>⋯</summary>
 
-> 🚀 [Cosmic Roadmap](https://ronna-probe.github.io/data-study/index.html)
+🚀 [Cosmic Roadmap](https://ronna-probe.github.io/data-study/index.html)
 
 </details>
 
