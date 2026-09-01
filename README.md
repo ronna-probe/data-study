@@ -2,26 +2,25 @@
 
 데이터의 행간을 읽는다.
 
+> 👉 [00: 학습](./00_learning/)  
+> 
+> 👉 [90: 실습](./90_practice/)  
+> 
+> 👉 [99: 구현](./99_projects/)  
+
+---
+
 <details>
 <summary>⋯</summary>
 
----
+> 🚀 [Cosmic Roadmap](https://ronna-probe.github.io/data-study/index.html)
 
-## 바로가기
-
-👉 [00: 학습](./00_learning/)  
-
-👉 [90: 실습](./90_practice/)  
-
-👉 [99: 구현](./99_projects/)  
+</details>
 
 ---
 
-## 로드맵
-
-🚀 [Cosmic Roadmap](https://ronna-probe.github.io/data-study/index.html)
-
----
+<details>
+<summary>⋯</summary>
 
 ## 목표
 
