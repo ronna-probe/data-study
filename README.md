@@ -13,14 +13,8 @@
 <details>
 <summary>⋯</summary>
 
+## 로드맵
 🚀 [Cosmic Roadmap](https://ronna-probe.github.io/data-study/index.html)
-
-</details>
-
----
-
-<details>
-<summary>⋯</summary>
 
 ## 목표
 
