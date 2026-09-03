@@ -10,5 +10,11 @@
 
 ## 구성
 
-- training: 기술 연습
+### 1. Training
+
+- python_basic: 파이썬 기초
+- data_questions: 데이터 조작
+
+### 9. Application
+
 - work: 기술 적용

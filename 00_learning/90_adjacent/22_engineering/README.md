@@ -12,5 +12,4 @@
 
 - code_quality: 코드 품질
 - testing: 코드 검증
-- version_control: 버전 관리
 - automation: 작업 자동화
