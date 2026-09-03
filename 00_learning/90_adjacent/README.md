@@ -16,9 +16,7 @@
 
 ### 2. Technical Knowledge
 
-- math: 수학 기초
-- computing: 컴퓨팅 원리
-- engineering: 기술 이해
+- technical_foundations: 기술 기반 역량
 - cross_functional: 인접 영역 이해
 
 ### 9. Supporting Areas
