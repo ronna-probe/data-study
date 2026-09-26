@@ -1,0 +1,37 @@
+```yaml
+name: Generate Missing READMEs
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  generate-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate missing READMEs
+        run: python scripts/generate-readme.py
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "docs: add missing README files"
+          branch: automation/add-missing-readmes
+          delete-branch: true
+          title: "docs: add missing README files"
+          body: |
+            README.md가 없는 폴더에
+            기본 README를 자동으로 추가했습니다.
+
+            변경 내용을 확인한 후 Merge해주세요.
+```
