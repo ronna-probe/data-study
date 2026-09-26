@@ -1,10 +1,10 @@
-```yaml
 name: Generate Missing READMEs
 
 on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -34,4 +34,3 @@ jobs:
             기본 README를 자동으로 추가했습니다.
 
             변경 내용을 확인한 후 Merge해주세요.
-```
