@@ -1,4 +1,3 @@
-```python
 from pathlib import Path
 
 ROOT = Path(".")
@@ -23,4 +22,3 @@ for folder in ROOT.rglob("*"):
     if not readme.exists():
         readme.write_text(README_CONTENT, encoding="utf-8")
         print(f"Created: {readme}")
-```
