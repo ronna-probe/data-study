@@ -1,0 +1,38 @@
+name: Generate Repository Tree
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-tree:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 현재 저장소의 최신 상태를 가져온다.
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Repository tree를 생성한다.
+      - name: Generate repository tree
+        run: python scripts/generate-tree.py
+
+      # 생성된 repo_tree.md에 변경사항이 있을 때만 커밋한다.
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add docs/repo_tree.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "docs: update repository tree"
+            git push
+          fi
