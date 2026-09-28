@@ -4,7 +4,6 @@
 .
 ├── .github/
 │   └── workflows/
-│       ├── auto-label-issue.yml
 │       ├── generate-readme.yml
 │       └── generate-tree.yml
 ├── 00_learning/
