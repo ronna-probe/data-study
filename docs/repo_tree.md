@@ -256,6 +256,7 @@
 │   │   └── README.md
 │   └── README.md
 ├── docs/
+│   ├── README.md
 │   └── repo_tree.md
 ├── scripts/
 │   ├── generate-readme.py
