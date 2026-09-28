@@ -1,0 +1,33 @@
+name: Auto Label New Issues
+
+on:
+  issues:
+    types:
+      - opened
+
+permissions:
+  issues: write
+
+jobs:
+  add-default-label:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Add default learning label
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = await github.rest.issues.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number
+            });
+
+            if (issue.data.labels.length === 0) {
+              await github.rest.issues.addLabels({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                labels: ['00_learning']
+              });
+            }
