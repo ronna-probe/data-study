@@ -80,6 +80,7 @@
 │   │   ├── 30_information_design/
 │   │   │   ├── [2026-06-01] 실무에서 바로 쓰는 도해 만들기.md
 │   │   │   ├── [2026-06-17] 데이터 시각화 교과서.md
+│   │   │   ├── [2026-10-07] 데이터 시각화, 인지과학을 만나다.md
 │   │   │   └── README.md
 │   │   ├── 31_programmatic_visualization/
 │   │   │   ├── [2026-07-07] Matplotlib Tutorial - 파이썬으로 데이터 시각화하기.md
