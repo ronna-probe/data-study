@@ -281,11 +281,9 @@
 │   │   │   └── source_description.md
 │   │   ├── 10_user_behavior/
 │   │   │   ├── README.md
-│   │   │   └── user_dm.sql
+│   │   │   ├── user_dm.sql
+│   │   │   └── validation.sql
 │   │   └── README.md
-│   ├── 10_ga4_user_behavior/
-│   │   └── 10_user_behavior/
-│   │       └── validation.sql
 │   └── README.md
 ├── docs/
 │   ├── README.md
