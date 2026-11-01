@@ -280,7 +280,8 @@
 │   │   │   ├── schema.md
 │   │   │   └── source_description.md
 │   │   ├── 10_user_behavior/
-│   │   │   └── README.md
+│   │   │   ├── README.md
+│   │   │   └── user_dm.sql
 │   │   └── README.md
 │   └── README.md
 ├── docs/
