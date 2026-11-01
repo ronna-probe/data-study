@@ -274,6 +274,14 @@
 │   │   │   ├── [2026-08-xx] meta_portfolio_epilogue.pdf
 │   │   │   └── README.md
 │   │   └── README.md
+│   ├── 10_ga4_user_behavior/
+│   │   ├── 00_dataset/
+│   │   │   ├── event_catalog.md
+│   │   │   ├── schema.md
+│   │   │   └── source_description.md
+│   │   ├── 10_user_behavior/
+│   │   │   └── README.md
+│   │   └── README.md
 │   └── README.md
 ├── docs/
 │   ├── README.md
