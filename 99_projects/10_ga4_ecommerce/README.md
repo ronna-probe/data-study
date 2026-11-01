@@ -1,4 +1,4 @@
-# GA4 User Behavior Analysis
+# GA4 E-Commerce Analysis
 
 ---
 
