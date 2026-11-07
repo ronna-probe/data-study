@@ -184,8 +184,10 @@
 │   │   │   ├── [2026-08-08] 영어가 싫어요.md
 │   │   │   ├── [2026-08-13] 배열 만들기2.md
 │   │   │   └── README.md
-│   │   └── 20_sql/
-│   │       └── .gitignore
+│   │   ├── 20_sql/
+│   │   │   ├── .gitignore
+│   │   │   └── README.md
+│   │   └── README.md
 │   ├── 10_exploration/
 │   │   ├── [2026-05-22] inflearn_why_users_dont_finish_some_courses.md
 │   │   ├── [2026-06-06] toss_silo_case_study.md
@@ -223,7 +225,8 @@
 │   │   │   └── README.md
 │   │   ├── 12_statistics/
 │   │   │   ├── [2026-11-02] 모집단과 표본.md
-│   │   │   └── [2026-11-05] 표본 변동성.md
+│   │   │   ├── [2026-11-05] 표본 변동성.md
+│   │   │   └── README.md
 │   │   ├── 90_work/
 │   │   │   ├── [2026-05-18] aiduez_titanic.md
 │   │   │   ├── [2026-08-06] titanic_cycle.ipynb
@@ -283,16 +286,21 @@
 │   ├── 10_ga4_ecommerce/
 │   │   ├── 00_dataset/
 │   │   │   ├── event_catalog.md
+│   │   │   ├── README.md
 │   │   │   ├── schema.md
 │   │   │   └── source_description.md
 │   │   ├── 10_user_behavior/
 │   │   │   ├── apps_script/
-│   │   │   │   └── .gitignore
+│   │   │   │   ├── .gitignore
+│   │   │   │   └── README.md
 │   │   │   ├── notebooks/
-│   │   │   │   └── .gitignore
+│   │   │   │   ├── .gitignore
+│   │   │   │   └── README.md
 │   │   │   ├── outputs/
-│   │   │   │   └── .gitignore
+│   │   │   │   ├── .gitignore
+│   │   │   │   └── README.md
 │   │   │   ├── sql/
+│   │   │   │   ├── README.md
 │   │   │   │   ├── user_dm.sql
 │   │   │   │   └── validation.sql
 │   │   │   └── README.md
