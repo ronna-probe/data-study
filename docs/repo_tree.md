@@ -286,9 +286,16 @@
 │   │   │   ├── schema.md
 │   │   │   └── source_description.md
 │   │   ├── 10_user_behavior/
-│   │   │   ├── README.md
-│   │   │   ├── user_dm.sql
-│   │   │   └── validation.sql
+│   │   │   ├── apps_script/
+│   │   │   │   └── .gitignore
+│   │   │   ├── notebooks/
+│   │   │   │   └── .gitignore
+│   │   │   ├── outputs/
+│   │   │   │   └── .gitignore
+│   │   │   ├── sql/
+│   │   │   │   ├── user_dm.sql
+│   │   │   │   └── validation.sql
+│   │   │   └── README.md
 │   │   └── README.md
 │   └── README.md
 ├── docs/
