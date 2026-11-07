@@ -106,5 +106,5 @@ BigQuery에서 사용자별 데이터를 가공하고, Python을 활용해 데�
 - `user_dm.sql`: 사용자별 데이터 집계 SQL
 - `validation.sql`: 데이터 검증 SQL
 - `user_analysis.ipynb`: Python 기반 기초 데이터 탐색 및 통계 분석
-- `Google Sheets`: 원본 데이터, 요약 데이터 및 대시보드
 - `Google Apps Script`: 데이터 분석 및 대시보드 갱신 로직
+- `Google Sheets`: 원본 데이터, 요약 데이터 및 대시보드
