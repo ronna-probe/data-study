@@ -296,7 +296,8 @@
 │   │   │   │   └── README.md
 │   │   │   ├── notebooks/
 │   │   │   │   ├── .gitignore
-│   │   │   │   └── README.md
+│   │   │   │   ├── README.md
+│   │   │   │   └── user_analysis.ipynb
 │   │   │   ├── outputs/
 │   │   │   │   ├── .gitignore
 │   │   │   │   └── README.md
