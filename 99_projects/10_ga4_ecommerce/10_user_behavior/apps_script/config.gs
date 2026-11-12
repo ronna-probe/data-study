@@ -1,3 +1,4 @@
+// BigQuery 설정
 const BIGQUERY_CONFIG = {
   LOCATION: 'US',
 
@@ -8,9 +9,10 @@ const BIGQUERY_CONFIG = {
   }
 };
 
+// Google Sheets 설정
 const SHEET_CONFIG = {
-  // 실제 스프레드시트 ID는 실행 환경에서 별도 설정
-  SPREADSHEET_ID: '',
+  // 실제 사용 시 스프레드시트 ID 설정
+  SPREADSHEET_ID: 'YOUR_SPREADSHEET_ID',
 
   SHEETS: {
     ECOMMERCE_USER: 'user'
@@ -24,6 +26,7 @@ const SHEET_CONFIG = {
   OUTPUT_START_ROW: 7
 };
 
+// 애플리케이션 공통 설정
 const APP_CONFIG = {
   TIMEZONE: 'Asia/Seoul',
 
