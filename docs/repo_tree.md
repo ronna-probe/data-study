@@ -294,7 +294,6 @@
 │   │   │   └── source_description.md
 │   │   ├── 10_user_behavior/
 │   │   │   ├── apps_script/
-│   │   │   │   ├── .gitignore
 │   │   │   │   ├── config.gs
 │   │   │   │   └── README.md
 │   │   │   ├── notebooks/
