@@ -299,6 +299,7 @@
 │   │   │   ├── apps_script/
 │   │   │   │   ├── bigquery.gs
 │   │   │   │   ├── config.gs
+│   │   │   │   ├── query.gs
 │   │   │   │   └── README.md
 │   │   │   ├── notebooks/
 │   │   │   │   ├── README.md
