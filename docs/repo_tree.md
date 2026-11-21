@@ -308,7 +308,7 @@
 │   │   │   │   ├── README.md
 │   │   │   │   └── user_analysis.ipynb
 │   │   │   ├── outputs/
-│   │   │   │   ├── .gitignore
+│   │   │   │   ├── dashboard.md
 │   │   │   │   └── README.md
 │   │   │   ├── sql/
 │   │   │   │   ├── README.md
