@@ -13,7 +13,7 @@
 
 | No | 분석 과제 | 분석 주제 |
 |---:|---|---|
-| 10 | User Behavior | 사용자 행동 분석 |
+| 10 | User Behavior | 사용자 행동 파악 |
 | 11 | Session Behavior | 세션 행동 분석 |
 | 12 | Purchase Funnel | 구매 퍼널 분석 |
 | 13 | User Retention | 사용자 리텐션 분석 |
